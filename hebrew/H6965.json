@@ -1,0 +1,77 @@
+{
+  "id": "H6965",
+  "language": "hebrew",
+  "original_word": "levantou-se",
+  "transliteration": "qum",
+  "pronunciation": "koom",
+  "short_definition": "Levantar-se, ficar de pé, erguer-se.",
+  "full_definition": "Este verbo hebraico denota o ato físico de se erguer de uma posição sentada, deitada ou prostrada. Também pode significar erguer-se para realizar uma ação, ficar firme ou firme em uma posição, estabelecer ou realizar algo. Em 2 Reis 8:2, a forma no Piel (causativo) 'higgîlâ' (הֵגִּילָה - ela fez prosperar/crescer) é usada em referência ao período de sete anos de fome que Deus enviou à terra. No entanto, o verbo primário 'qum' (קוּם) em si, comumente traduzido como 'levantar-se', abrange uma gama de significados desde o literal até o figurado de iniciar ou estabelecer.",
+  "etymology": "A raiz hebraica קוּם (qum) é fundamental e significa 'levantar-se'. É uma raiz primitiva com cognatos em outras línguas semíticas, indicando a universalidade do conceito de erguer-se.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "2rs 8:2",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E a terra estava...",
+      "verse": 2,
+      "chapter": 1
+    },
+    {
+      "book": "js",
+      "text": "Não to mandei eu?...",
+      "verse": 9,
+      "chapter": 1
+    },
+    {
+      "book": "sl",
+      "text": "Bem-aventurado o homem...",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "pv",
+      "text": "Deleita ao Senhor...",
+      "verse": 3,
+      "chapter": 16
+    },
+    {
+      "book": "is",
+      "text": "Mas os que esperam...",
+      "verse": 31,
+      "chapter": 40
+    },
+    {
+      "book": "jr",
+      "text": "Pois eu bem sei...",
+      "verse": 11,
+      "chapter": 29
+    },
+    {
+      "book": "ez",
+      "text": "E ele me disse...",
+      "verse": 10,
+      "chapter": 37
+    },
+    {
+      "book": "dn",
+      "text": "E ele disse...",
+      "verse": 25,
+      "chapter": 3
+    },
+    {
+      "book": "mt",
+      "text": "E, tendo eles se retirado...",
+      "verse": 13,
+      "chapter": 2
+    },
+    {
+      "book": "lc",
+      "text": "E Maria, levantando-se...",
+      "verse": 39,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2025-12-18T02:29:11.739+00:00"
+}

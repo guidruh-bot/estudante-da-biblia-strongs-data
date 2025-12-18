@@ -1,0 +1,77 @@
+{
+  "id": "G1905",
+  "language": "greek",
+  "original_word": "perguntou-lhes",
+  "transliteration": "erōtōn",
+  "pronunciation": "eh-roh-TON",
+  "short_definition": "Perguntar com a intenção de obter uma resposta específica.",
+  "full_definition": "Este é o particípio presente ativo do verbo grego 'erōtaō' (ἐρωτάω). Refere-se a um ato de perguntar, questionar, interrogar ou solicitar. Diferentemente de outros verbos gregos para 'perguntar' (como 'zēteō' que busca, ou 'apantaō' que encontra), 'erōtaō' implica um direcionamento mais direto e uma expectativa de resposta. O particípio presente, neste contexto, denota uma ação contínua ou no momento da narrativa.",
+  "etymology": "Derivado do verbo grego 'erōtaō' (ἐρωτάω), que possivelmente tem raízes em uma antiga raiz indo-europeia relacionada a 'pedir' ou 'questionar'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "mt 2:4",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "Então Herodes, chamando os magos secretamente, informou-se com precisão deles do tempo em que a estrela apareceu.",
+      "verse": 7,
+      "chapter": 2
+    },
+    {
+      "book": "mt",
+      "text": "Pedro, porém, respondendo, disse-lhe: Explica-nos esta parábola.",
+      "verse": 15,
+      "chapter": 15
+    },
+    {
+      "book": "mc",
+      "text": "Respondendo Pedro, disse a Jesus: Mestre, bom é estarmos aqui; façamos três tabernáculos, um para ti, um para Moisés, e um para Elias.",
+      "verse": 5,
+      "chapter": 9
+    },
+    {
+      "book": "lc",
+      "text": "E aconteceu que, passados três dias, o acharam no templo, sentado no meio dos doutores, ouvindo-os e interrogando-os.",
+      "verse": 46,
+      "chapter": 2
+    },
+    {
+      "book": "lc",
+      "text": "Porque, aquele que pede, recebe; e, o que busca, encontra; e, ao que bate, abrir-se-lhe-á.",
+      "verse": 10,
+      "chapter": 11
+    },
+    {
+      "book": "jo",
+      "text": "Simão Pedro fez um aceno para que este perguntasse quem era aquele de quem Jesus falava.",
+      "verse": 24,
+      "chapter": 13
+    },
+    {
+      "book": "jo",
+      "text": "Se alguma coisa pedirdes em meu nome, eu o farei.",
+      "verse": 14,
+      "chapter": 14
+    },
+    {
+      "book": "jo",
+      "text": "Naquele dia pedireis em meu nome; e não digo que eu rogarei ao Pai por vós.",
+      "verse": 26,
+      "chapter": 16
+    },
+    {
+      "book": "at",
+      "text": "E, comendo com eles, recomendou-lhes que não se ausentassem de Jerusalém, mas que esperassem a promessa do Pai, que, disse ele, de mim já tendes ouvido.",
+      "verse": 4,
+      "chapter": 1
+    },
+    {
+      "book": "at",
+      "text": "Ora, estes eram mais nobres do que os de Tessalônica, porque receberam a palavra com toda a avidez, examinando cada dia nas Escrituras se estas coisas eram assim.",
+      "verse": 11,
+      "chapter": 17
+    }
+  ],
+  "generated_at": "2025-12-18T02:29:54.416+00:00"
+}

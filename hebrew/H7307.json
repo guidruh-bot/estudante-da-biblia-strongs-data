@@ -1,0 +1,77 @@
+{
+  "id": "H7307",
+  "language": "hebrew",
+  "original_word": "espírito",
+  "transliteration": "Ruach",
+  "pronunciation": "roo-ACH",
+  "short_definition": "Vento, sopro, espírito, ou espírito de vida.",
+  "full_definition": "A palavra hebraica 'Ruach' é rica em significado, abrangendo desde o vento físico e o sopro da vida até o sopro divino e o espírito humano. Em Gênesis 1:2, sua aplicação é multifacetada, indicando a força ativa e vivificadora de Deus pairando sobre as águas antes da criação. Pode se referir ao vento, ao sopro da vida (essencial para a existência), ao espírito humano (a sede da personalidade e emoção), ou ao próprio Espírito de Deus (a manifestação da Sua presença e poder).",
+  "etymology": "A raiz etimológica é incerta, mas é frequentemente associada a um verbo que significa 'soprar', 'respirar' ou 'estar vivo'. Sugere uma conexão fundamental com o alento e a atividade vital.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 1:2",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "A terra, porém, estava sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus movia-se sobre a face das águas.",
+      "verse": 2,
+      "chapter": 1
+    },
+    {
+      "book": "jó",
+      "text": "Pelo seu sopro ornou os céus; a sua mão transpassou a serpente fugitiva.",
+      "verse": 13,
+      "chapter": 26
+    },
+    {
+      "book": "sl",
+      "text": "Envias o teu Espírito, e são criados, e renovas a face da terra.",
+      "verse": 30,
+      "chapter": 104
+    },
+    {
+      "book": "is",
+      "text": "Quem guiou o Espírito do SENHOR, ou como seu conselheiro o ensinou?",
+      "verse": 13,
+      "chapter": 40
+    },
+    {
+      "book": "ez",
+      "text": "Veio sobre mim a mão do SENHOR, e ele me levou em espírito do SENHOR, e me pôs no meio de um vale que estava cheio de ossos.",
+      "verse": 1,
+      "chapter": 37
+    },
+    {
+      "book": "zc",
+      "text": "Então respondeu e disse-me: Esta é a palavra do SENHOR a Zorobabel, dizendo: Não por força, nem por violência, mas pelo meu Espírito, diz o SENHOR dos Exércitos.",
+      "verse": 6,
+      "chapter": 4
+    },
+    {
+      "book": "mt",
+      "text": "Mas, se eu pelo dedo de Deus expulso os demônios, logo é chegado a vós o reino de Deus.",
+      "verse": 28,
+      "chapter": 12
+    },
+    {
+      "book": "lc",
+      "text": "E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; por isso também o Santo, que de ti há de nascer, será chamado Filho de Deus.",
+      "verse": 35,
+      "chapter": 1
+    },
+    {
+      "book": "jo",
+      "text": "Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito, não pode entrar no reino de Deus.",
+      "verse": 5,
+      "chapter": 3
+    },
+    {
+      "book": "at",
+      "text": "E, cumprindo-se o dia de Pentecostes, estavam todos unânimes juntos no mesmo lugar.",
+      "verse": 1,
+      "chapter": 2
+    }
+  ],
+  "generated_at": "2025-12-18T02:36:39.608+00:00"
+}
