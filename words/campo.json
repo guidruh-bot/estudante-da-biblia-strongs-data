@@ -1,0 +1,77 @@
+{
+  "id": "H7704",
+  "language": "hebrew",
+  "original_word": "campo",
+  "transliteration": "Sadeh",
+  "pronunciation": "SAH-deh",
+  "short_definition": "Um campo aberto, terra cultivada ou pastagem.",
+  "full_definition": "Refere-se a um campo aberto, uma área de terra, seja ela cultivada, pastagem ou terra não trabalhada. Pode denotar a extensão da terra, um terreno agrícola, ou simplesmente um espaço aberto.",
+  "etymology": "A origem hebraica é incerta, mas possivelmente relacionada a uma raiz que significa 'estender-se' ou 'abrir-se', indicando a natureza aberta e expansiva de um campo.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 2:5",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Produza a terra relva, ervas que deem semente e árvores frutíferas que deem fruto pelo seu gênero, cuja semente esteja nele, sobre a terra. E assim foi.",
+      "verse": 11,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E disse Caim a seu irmão Abel: Saiamos ao campo. E sucedeu que, estando eles no campo, levantou-se Caim contra seu irmão Abel e o matou.",
+      "verse": 8,
+      "chapter": 4
+    },
+    {
+      "book": "dt",
+      "text": "Bendito serás na cidade e bendito serás no campo.",
+      "verse": 3,
+      "chapter": 28
+    },
+    {
+      "book": "js",
+      "text": "E eu vos dei a terra sobre que não lavrastes, e cidades que não edificastes, e em cujas casas habitais; e de vinhas e de azeitarais, que não plantastes, comeis.",
+      "verse": 13,
+      "chapter": 24
+    },
+    {
+      "book": "rt",
+      "text": "E Rute, a moabita, disse a Noemi: Deixa-me ir ao campo, a espigar após aquele em cujos olhos eu achar graça. E ela disse: Vai, minha filha.",
+      "verse": 2,
+      "chapter": 2
+    },
+    {
+      "book": "sl",
+      "text": "Ele cobre os céus de nuvens, prepara a chuva para a terra, faz brotar a erva nos montes.",
+      "verse": 8,
+      "chapter": 147
+    },
+    {
+      "book": "pv",
+      "text": "Passei pelo campo do preguiçoso e pela vinha do homem sem entendimento.",
+      "verse": 30,
+      "chapter": 24
+    },
+    {
+      "book": "is",
+      "text": "A lamentar-vos-eis sobre os campos, sobre a colheita, sobre a abundância.",
+      "verse": 12,
+      "chapter": 32
+    },
+    {
+      "book": "jr",
+      "text": "Olhei, e eis que o campo era deserto; e tudo o seu lavradio era terra de ninguém; e eis que os montes estavam todos desertos.",
+      "verse": 26,
+      "chapter": 4
+    },
+    {
+      "book": "mt",
+      "text": "Outra parábola lhes propôs, dizendo: O reino dos céus é semelhante a um grão de mostarda que um homem tomou, e semeou no seu campo.",
+      "verse": 31,
+      "chapter": 13
+    }
+  ],
+  "generated_at": "2025-12-18T00:54:21.983+00:00"
+}

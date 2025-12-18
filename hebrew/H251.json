@@ -1,0 +1,77 @@
+{
+  "id": "H251",
+  "language": "hebrew",
+  "original_word": "irmão",
+  "transliteration": "Ach",
+  "pronunciation": "akh",
+  "short_definition": "Um parente masculino próximo, especialmente um irmão.",
+  "full_definition": "O termo hebraico 'ach' (אָח) refere-se primariamente a um irmão de sangue. No entanto, seu uso se expande para incluir parentes mais distantes, membros de uma mesma tribo ou nação, aliados, e até mesmo aqueles que compartilham uma relação de profunda afinidade ou comunhão, como um irmão espiritual. No contexto de Êxodo 28:1, refere-se especificamente a um irmão de sangue, Aarão.",
+  "etymology": "A raiz etimológica de 'ach' é incerta, mas parece derivar de uma raiz primitiva que denota unidade ou parentesco próximo. A conexão com a ideia de 'unir' ou 'ser um' é frequentemente sugerida.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 28:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Depois=['ah]=['ah] outro irmão dele Caim...",
+      "verse": 2,
+      "chapter": 4
+    },
+    {
+      "book": "gn",
+      "text": "Então disse Abrão a Ló: 'Rogo-te que não haja contenda entre mim e ti, nem entre os meus=['ah]=['ah] e os teus=['ah]=['ah], pois somos ['ah]=['ah] ['ah]=['ah]'.",
+      "verse": 8,
+      "chapter": 13
+    },
+    {
+      "book": "gn",
+      "text": "E disse Rebeca a Jacó seu filho: Eis que ouvi teu pai falar com Esaú teu irmão, dizendo:",
+      "verse": 6,
+      "chapter": 27
+    },
+    {
+      "book": "1sm",
+      "text": "Sucedeu que, acabando Davi de falar com Saul, a alma de Jônatas se ligou à alma de Davi; e Jônatas o amou como à sua mesma alma.",
+      "verse": 1,
+      "chapter": 18
+    },
+    {
+      "book": "sl",
+      "text": "Porquanto é bom e delicioso que morem os irmãos em união!",
+      "verse": 1,
+      "chapter": 133
+    },
+    {
+      "book": "pv",
+      "text": "Em todo o tempo ama o amigo; e para a hora da angústia nasce o irmão.",
+      "verse": 17,
+      "chapter": 17
+    },
+    {
+      "book": "is",
+      "text": "O boi conhece o seu possuidor, e o asno o cocho do seu senhor; mas Israel não me conhece, o meu povo não entende.",
+      "verse": 3,
+      "chapter": 1
+    },
+    {
+      "book": "mt",
+      "text": "Porém eu vos digo que todo aquele que se irar contra seu irmão estará sujeito ao juízo, e qualquer que dizer a seu irmão, Raca, estará sujeito ao sinédrio; e o que lhe disser: Louco, estará sujeito à geena de fogo.",
+      "verse": 22,
+      "chapter": 5
+    },
+    {
+      "book": "jo",
+      "text": "Um novo mandamento vos dou: Que vos ameis uns aos outros; como eu vos amei a vós, que também vós vos ameis uns aos outros.",
+      "verse": 34,
+      "chapter": 13
+    },
+    {
+      "book": "1jo",
+      "text": "Nisto conhecemos o amor: que Cristo deu a sua vida por nós, e nós devemos dar a vida pelos irmãos.",
+      "verse": 16,
+      "chapter": 3
+    }
+  ],
+  "generated_at": "2025-12-18T02:13:02.266+00:00"
+}

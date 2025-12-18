@@ -1,0 +1,77 @@
+{
+  "id": "H1254",
+  "language": "hebrew",
+  "original_word": "fizera",
+  "transliteration": "Bara",
+  "pronunciation": "baw-raw'",
+  "short_definition": "Criar, formar ou fazer algo novo.",
+  "full_definition": "O verbo hebraico 'bara' (בָּרָא) é usado primordialmente para denotar a criação divina, algo que só Deus pode fazer. Ele se refere à ação de trazer algo à existência a partir do nada, ou à formação e ordenação do cosmos e da vida. Em Gênesis 2:3, é usado no Piel (forma intensiva) referindo-se à ação de Deus de cessar sua obra criadora e abençoar o sétimo dia.",
+  "etymology": "A raiz hebraica אָמַן ('aman') que significa 'ser firme, fiel, forte', ou uma raiz que denota 'cortar, separar', mas é mais comumente associada a uma ideia de criação única e divina, possivelmente de origem pré-hebraica.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 2:3",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "No princípio criou Deus os céus e a terra.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "Criou, pois, Deus os monstros marinhos e todos os seres viventes que rastejavam, que as águas trouxeram à vida segundo as suas espécies, e todas as aves que voam segundo a sua espécie. Viu Deus que isso era bom.",
+      "verse": 21,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou.",
+      "verse": 27,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E abençoou Deus o dia sétimo e o santificou; porque nele descansou de toda a obra que, criando, fizera.",
+      "verse": 3,
+      "chapter": 2
+    },
+    {
+      "book": "is",
+      "text": "Erguei os vossos olhos e vede quem criou estas coisas, aquele que faz sair o exército delas segundo o número; todas as chama pelo nome; por causa da grandeza das suas forças, e pela fortaleza do seu poder, nenhuma faltará.",
+      "verse": 26,
+      "chapter": 40
+    },
+    {
+      "book": "is",
+      "text": "Eu formo a luz e crio as trevas; faço a paz e crio o mal; eu, o SENHOR, faço todas estas coisas.",
+      "verse": 7,
+      "chapter": 45
+    },
+    {
+      "book": "sl",
+      "text": "Envias o teu Espírito, e são criados, e renovas a face da terra.",
+      "verse": 30,
+      "chapter": 104
+    },
+    {
+      "book": "sl",
+      "text": "Louvem o nome do SENHOR, pois ele o ordenou, e foram criados.",
+      "verse": 5,
+      "chapter": 148
+    },
+    {
+      "book": "sl",
+      "text": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto.",
+      "verse": 10,
+      "chapter": 51
+    },
+    {
+      "book": "ez",
+      "text": "Perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti.",
+      "verse": 15,
+      "chapter": 28
+    }
+  ],
+  "generated_at": "2025-12-18T01:44:29.324+00:00"
+}
