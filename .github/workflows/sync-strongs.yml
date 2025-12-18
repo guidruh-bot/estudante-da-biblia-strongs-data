@@ -1,0 +1,82 @@
+name: Sync Strong's Data
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Fetch Strong's data from Supabase
+        id: fetch
+        run: |
+          echo "Fetching Strong's data from Supabase..."
+          
+          SUPABASE_URL="https://mganoajssvaxmsltslqu.supabase.co"
+          
+          RESPONSE=$(curl -s -X POST \
+            "$SUPABASE_URL/functions/v1/export-strongs" \
+            -H "Content-Type: application/json" \
+            -d '{"action": "export"}')
+          
+          if echo "$RESPONSE" | jq -e '.error' > /dev/null 2>&1; then
+            echo "Error from API: $(echo $RESPONSE | jq -r '.error')"
+            exit 1
+          fi
+          
+          EXPORTED=$(echo "$RESPONSE" | jq -r '.exported // 0')
+          echo "Exported entries: $EXPORTED"
+          echo "exported_count=$EXPORTED" >> $GITHUB_OUTPUT
+          
+          echo "$RESPONSE" > /tmp/export.json
+      
+      - name: Process and create files
+        if: steps.fetch.outputs.exported_count != '0'
+        run: |
+          mkdir -p words hebrew greek
+          
+          node << 'EOF'
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('/tmp/export.json', 'utf8'));
+          
+          if (data.files) {
+            for (const [path, content] of Object.entries(data.files)) {
+              const dir = path.split('/').slice(0, -1).join('/');
+              if (dir && !fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+              }
+              fs.writeFileSync(path, JSON.stringify(content, null, 2));
+            }
+            if (data.readme) {
+              fs.writeFileSync('README.md', data.readme);
+            }
+          }
+          EOF
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add -A
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "🔄 Sync Strong's data - $(date +%Y-%m-%d)"
+          git push
