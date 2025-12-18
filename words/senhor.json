@@ -1,0 +1,77 @@
+{
+  "id": "H3068",
+  "language": "hebrew",
+  "original_word": "senhor",
+  "transliteration": "Yhwh",
+  "pronunciation": "Yeh-ho-wah or Yah-weh",
+  "short_definition": "O nome pessoal e inefável de Deus, o Criador e Redentor.",
+  "full_definition": "Este é o nome mais sagrado e pessoal de Deus no Antigo Testamento. Sua origem está ligada ao verbo 'ser' (H ‫היה‬ - hayah) e expressa a natureza eterna, autoexistente e ativa de Deus. Frequentemente transliterado como 'Jeová' ou 'Yahweh', o nome era considerado tão santo que os judeus substituíam pela palavra 'Adonai' (Senhor) para evitar profanação.",
+  "etymology": "Derivado do verbo hebraico ‫היה‬ (hayah), que significa 'ser', 'existir'. Sugere que Deus é Aquele Que É, Que Era e Que Há de Vir, enfatizando Sua eternidade e imutabilidade.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "js 23:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Estas são as origens dos céus e da terra, quando foram criados; no dia em que o SENHOR Deus os fez.",
+      "verse": 4,
+      "chapter": 2
+    },
+    {
+      "book": "ex",
+      "text": "Disse Deus a Moisés: EU SOU O QUE SOU. Disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.",
+      "verse": 14,
+      "chapter": 3
+    },
+    {
+      "book": "ex",
+      "text": "Disse também Deus a Moisés: Assim dirás aos filhos de Israel: O SENHOR, Deus de vossos pais, o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó, me enviou a vós. Este é o meu nome eternamente, e este é o meu memorial de geração em geração.",
+      "verse": 15,
+      "chapter": 3
+    },
+    {
+      "book": "dt",
+      "text": "Ouve, Israel, o SENHOR nosso Deus é o único SENHOR.",
+      "verse": 4,
+      "chapter": 6
+    },
+    {
+      "book": "js",
+      "text": "Porque um homem de vós fará fugir a mil; pois o SENHOR vosso Deus é quem defende por Israel.",
+      "verse": 10,
+      "chapter": 23
+    },
+    {
+      "book": "sl",
+      "text": "Ao diretor de coro. Para a melodia de Gitim. Um Salmo de Davi. SENHOR, nosso Deus, quão majestoso é o teu nome em toda a terra! Tu que espalhas a tua glória sobre os céus.",
+      "verse": 1,
+      "chapter": 8
+    },
+    {
+      "book": "sl",
+      "text": "Do SENHOR disse o meu Senhor: Assenta-te à minha mão direita, até que eu ponha os teus inimigos por escabelo dos teus pés.",
+      "verse": 1,
+      "chapter": 110
+    },
+    {
+      "book": "is",
+      "text": "Eis que o Senhor Jeová virá com força, e o seu braço o dominará; eis que o seu galardão está com ele, e a sua obra diante da sua face.",
+      "verse": 10,
+      "chapter": 40
+    },
+    {
+      "book": "jr",
+      "text": "Ah! Senhor JEOVÁ! Eis que tu fizeste os céus e a terra com o teu grande poder e com o teu braço estendido; nada há para ti maravilindo.",
+      "verse": 17,
+      "chapter": 32
+    },
+    {
+      "book": "ml",
+      "text": "Porque eu, o SENHOR, não mudo; vós, ó filhos de Jacó, não tendes fim.",
+      "verse": 6,
+      "chapter": 3
+    }
+  ],
+  "generated_at": "2025-12-16T11:24:47.6+00:00"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "H776",
+  "language": "hebrew",
+  "original_word": "terra",
+  "transliteration": "erets",
+  "pronunciation": "eh-REHTS",
+  "short_definition": "Terra, solo, terra como país ou nação.",
+  "full_definition": "A palavra hebraica 'erets' (אֶרֶץ) é um termo abrangente que se refere à terra em vários sentidos: o solo físico sobre o qual se pisa, a terra como uma área geográfica específica (como a Terra Prometida), a terra como uma nação ou reino, e em alguns contextos, o mundo inteiro. Sua conotação pode variar de um simples pedaço de terra a um território político ou até mesmo ao globo.",
+  "etymology": "A origem exata de 'erets' é incerta, mas alguns estudiosos a ligam a uma raiz primitiva que significa 'ser firme' ou 'ser sólido', talvez implicando a solidez da terra em contraste com as águas ou o caos. Outras teorias sugerem uma conexão com palavras semíticas para 'limite' ou 'confim'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 1:2",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "No princípio, criou Deus os céus e a terra.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "Porque toda a terra que vês, a darei a ti e à tua posteridade para sempre.",
+      "verse": 15,
+      "chapter": 13
+    },
+    {
+      "book": "dt",
+      "text": "E tu as ouvirás, e as guardarás, para fazê-las; para que te vá bem, e te multipliques muito na terra que mana leite e mel, como te prometeu o Senhor Deus de teus pais.",
+      "verse": 3,
+      "chapter": 6
+    },
+    {
+      "book": "js",
+      "text": "Todo lugar que pisar a planta do vosso pé, eu vo-lo tenho dado, como prometi a Moisés.",
+      "verse": 3,
+      "chapter": 1
+    },
+    {
+      "book": "sl",
+      "text": "Os céus são os céus do Senhor; mas a terra deu-a aos filhos dos homens.",
+      "verse": 16,
+      "chapter": 115
+    },
+    {
+      "book": "is",
+      "text": "Porque assim diz o Senhor, que criou os céus (ele é Deus), que formou a terra, e a fez; ele a confirmou, não a criou para ser vazia, mas para ser habitada: Eu sou o Senhor, e não há outro.",
+      "verse": 18,
+      "chapter": 45
+    },
+    {
+      "book": "jr",
+      "text": "Olhei para a terra, e eis que estava disforme e vazia; e para os céus, e não havia luz neles.",
+      "verse": 23,
+      "chapter": 4
+    },
+    {
+      "book": "ez",
+      "text": "Portanto, ó montes de Israel, ouvi a palavra do Senhor DEUS; Assim diz o Senhor DEUS aos montes, e aos outeiros, e aos rios, e aos vales, e às <em>terras</em> desertas, e às cidades desamparadas, que foram entregues por presa e por escárnio às outras nações ao redor;",
+      "verse": 4,
+      "chapter": 36
+    },
+    {
+      "book": "mt",
+      "text": "Bem-aventurados os mansos, porque eles herdarão a terra.",
+      "verse": 5,
+      "chapter": 5
+    },
+    {
+      "book": "ap",
+      "text": "E vi um novo céu e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe.",
+      "verse": 1,
+      "chapter": 21
+    }
+  ],
+  "generated_at": "2025-12-17T15:03:23.557+00:00"
+}
