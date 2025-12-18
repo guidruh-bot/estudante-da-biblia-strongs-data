@@ -1,0 +1,77 @@
+{
+  "id": "H6529",
+  "language": "hebrew",
+  "original_word": "fruto",
+  "transliteration": "Peri",
+  "pronunciation": "peh-REE",
+  "short_definition": "O resultado de um processo, especialmente o produto de uma árvore ou planta.",
+  "full_definition": "Refere-se primariamente ao produto comestível de uma planta, como frutas de uma árvore ou grãos. No entanto, seu uso se estende para denotar o resultado ou consequência de uma ação, especialmente no contexto de descendência, recompensa ou efeito moral. Pode também significar tesouro ou valor.",
+  "etymology": "Derivado da raiz hebraica H6527 (pará), que significa 'produzir, ser frutífero'. A ideia é de algo que brota e se desenvolve.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 3:2",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Do fruto das árvores do jardim podemos comer,",
+      "verse": 2,
+      "chapter": 3
+    },
+    {
+      "book": "gn",
+      "text": "Depois do tempo contado, aconteceu que Caim trouxe do fruto da terra uma oferta ao Senhor.",
+      "verse": 3,
+      "chapter": 4
+    },
+    {
+      "book": "dt",
+      "text": "Ele amará você, o abençoará e o multiplicará; abençoará o fruto do seu ventre, o fruto da sua terra, o seu cereal, o seu vinho novo e o seu óleo, as crias das suas vacas e os rebanhos das suas ovelhas, em toda a terra que jurou aos seus pais dar a você.",
+      "verse": 13,
+      "chapter": 7
+    },
+    {
+      "book": "sl",
+      "text": "Os filhos são herança do Senhor, uma recompensa de Deus.",
+      "verse": 3,
+      "chapter": 127
+    },
+    {
+      "book": "pv",
+      "text": "Assim, o seu celeiro ficará cheio de trigo; os seus barris transbordarão de vinho novo.",
+      "verse": 10,
+      "chapter": 3
+    },
+    {
+      "book": "is",
+      "text": "Mas, ainda que fiquem alguns ramos, como na oliveira e no carvalho, quando são podados, ainda resta um toco de esperança: a semente sagrada está nesse toco.",
+      "verse": 6,
+      "chapter": 17
+    },
+    {
+      "book": "mt",
+      "text": "Ou façam a árvore e o seu fruto bons, ou façam a árvore e o seu fruto ruins; pois pelo fruto se conhece a árvore.",
+      "verse": 33,
+      "chapter": 12
+    },
+    {
+      "book": "mc",
+      "text": "Quando o grão está maduro, ele logo apanha a foice, pois chegou a colheita.",
+      "verse": 29,
+      "chapter": 4
+    },
+    {
+      "book": "lc",
+      "text": "Mas ai de vocês, fariseus, que dão o dízimo da hortelã, da arruda e de todas as hortaliças, mas ignoram a justiça e o amor de Deus. É necessário praticar estas coisas, sem negligenciar as outras.",
+      "verse": 42,
+      "chapter": 11
+    },
+    {
+      "book": "ap",
+      "text": "Felizes os que lavam as suas vestes, para que tenham direito à árvore da vida e possam entrar na cidade pelos seus portões.",
+      "verse": 14,
+      "chapter": 22
+    }
+  ],
+  "generated_at": "2025-12-18T00:32:49.806+00:00"
+}
