@@ -1,0 +1,77 @@
+{
+  "id": "H1588",
+  "language": "hebrew",
+  "original_word": "jardim",
+  "transliteration": "Gan",
+  "pronunciation": "gan",
+  "short_definition": "Um local cercado e cultivado, um jardim ou pomar.",
+  "full_definition": "O termo hebraico 'gan' (גַּן) refere-se a um espaço delimitado e cuidado, frequentemente usado para cultivo de plantas, árvores frutíferas ou para recreação. Pode ser um jardim ornamental, um pomar ou uma área de lazer cercada. A ideia de cercamento (implícito na raiz) sugere proteção e cuidado.",
+  "etymology": "A raiz hebraica é 'gnn' (גנן), que significa 'proteger', 'cercar'. O substantivo 'gan' deriva diretamente dessa raiz, indicando um lugar protegido ou cercado para cultivo ou deleite.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 3:3",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E plantou o SENHOR Deus um jardim no Éden, do lado do oriente, e pôs nele o homem que lhe agradava.",
+      "verse": 8,
+      "chapter": 2
+    },
+    {
+      "book": "gn",
+      "text": "Então o SENHOR Deus o lançou fora do jardim do Éden, para lavrar a terra de que fora tomado.",
+      "verse": 23,
+      "chapter": 3
+    },
+    {
+      "book": "gn",
+      "text": "Saiu Caim de diante do SENHOR e habitou na terra de Node, a oriente do Éden.",
+      "verse": 16,
+      "chapter": 4
+    },
+    {
+      "book": "gn",
+      "text": "E levantou Ló os seus olhos e viu toda a campina do Jordão, que era toda bem regada, antes que o SENHOR destruísse Sodoma e Gomorra, como o jardim do SENHOR, como a terra do Egito, indo para Zoar.",
+      "verse": 10,
+      "chapter": 13
+    },
+    {
+      "book": "ct",
+      "text": "És jardim fechado, minha irmã, minha esposa, fonte fechada, selo de poço.",
+      "verse": 12,
+      "chapter": 4
+    },
+    {
+      "book": "is",
+      "text": "E o SENHOR te guiará perpetuamente, e fartará a tua alma em terras secas, e dará força às tuas ossa; e serás como um jardim regado, e como um manancial cujas águas nunca faltam.",
+      "verse": 11,
+      "chapter": 58
+    },
+    {
+      "book": "jl",
+      "text": "Diante dele há uma terra que consome, e atrás dele uma terra assolada; e do que hitherto não havia nada que lhe escapasse, nem pairou.",
+      "verse": 3,
+      "chapter": 2
+    },
+    {
+      "book": "lc",
+      "text": "E disse-lhe Jesus: Em verdade te digo que hoje estarás comigo no paraíso.",
+      "verse": 43,
+      "chapter": 23
+    },
+    {
+      "book": "ap",
+      "text": "Quem tem ouvido, ouça o que o Espírito diz às igrejas: Ao que vencer, dar-lhe-ei a comer da árvore da vida, que está no meio do paraíso de Deus.",
+      "verse": 7,
+      "chapter": 2
+    },
+    {
+      "book": "ap",
+      "text": "No meio da rua da cidade, e de uma e de outra banda do rio, estava a árvore da vida, que produz doze frutos, dando cada mês o seu fruto; e as folhas da árvore são para a cura das nações.",
+      "verse": 2,
+      "chapter": 22
+    }
+  ],
+  "generated_at": "2025-12-18T18:59:25.549+00:00"
+}
