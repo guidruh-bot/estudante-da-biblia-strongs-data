@@ -1,0 +1,77 @@
+{
+  "id": "G2411",
+  "language": "greek",
+  "original_word": "mundo",
+  "transliteration": "kosmos",
+  "pronunciation": "KOS-mos",
+  "short_definition": "Um sistema ordenado, o mundo ou a Terra, seus habitantes, ou o universo.",
+  "full_definition": "Refere-se primariamente a um arranjo ordenado, um sistema. No Novo Testamento, o termo 'kosmos' pode se referir à Terra habitada, à humanidade em sua totalidade, ou ao universo como um todo criado. Frequentemente, assume uma conotação negativa, indicando o mundo em oposição a Deus, um sistema pecaminoso e hostil a Cristo e seus seguidores. O contexto em Mateus 5:14 ('vós sois a luz do mundo') sugere o mundo de pessoas e sua sociedade, para a qual os discípulos são chamados a brilhar.",
+  "etymology": "Derivado de uma raiz que significa 'ordenar', 'arrumar', 'governar'. Originalmente, referia-se a algo bem arranjado ou adornado, depois passou a significar a ordem do mundo, e finalmente, o próprio mundo ou seus habitantes.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "mt 5:14",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "o campo é o mundo",
+      "verse": 38,
+      "chapter": 13
+    },
+    {
+      "book": "lc",
+      "text": "censo de todo o mundo",
+      "verse": 1,
+      "chapter": 2
+    },
+    {
+      "book": "jo",
+      "text": "o mundo o conheceu",
+      "verse": 10,
+      "chapter": 1
+    },
+    {
+      "book": "jo",
+      "text": "o mundo vos aborrece",
+      "verse": 7,
+      "chapter": 7
+    },
+    {
+      "book": "at",
+      "text": "os que têm virado o mundo",
+      "verse": 6,
+      "chapter": 17
+    },
+    {
+      "book": "rm",
+      "text": "a riqueza do mundo",
+      "verse": 12,
+      "chapter": 11
+    },
+    {
+      "book": "1co",
+      "text": "sábio deste mundo",
+      "verse": 20,
+      "chapter": 1
+    },
+    {
+      "book": "2co",
+      "text": "deus deste mundo",
+      "verse": 4,
+      "chapter": 4
+    },
+    {
+      "book": "1jo",
+      "text": "expiação pelos pecados do mundo inteiro",
+      "verse": 2,
+      "chapter": 2
+    },
+    {
+      "book": "ap",
+      "text": "todo aquele que não adorar a imagem do mundo",
+      "verse": 8,
+      "chapter": 13
+    }
+  ],
+  "generated_at": "2025-12-20T01:31:20.128+00:00"
+}

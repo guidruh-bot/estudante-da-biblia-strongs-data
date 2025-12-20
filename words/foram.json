@@ -1,0 +1,77 @@
+{
+  "id": "H1961",
+  "language": "hebrew",
+  "original_word": "foram",
+  "transliteration": "hāyū",
+  "pronunciation": "haw-YOO",
+  "short_definition": "Forma verbal do verbo ser/estar/tornar-se, indicando existência ou ocorrência.",
+  "full_definition": "Este é o Qal (voz ativa simples) perfeito, 3ª pessoa do plural do verbo hebraico 'Hāyâ' (הָיָה). Indica uma ação completada no passado, significando 'eles foram', 'eles existiram', 'eles se tornaram', ou 'eles aconteceram'. É um verbo fundamental que expressa existência, estado, acontecimento e realização.",
+  "etymology": "A raiz é 'Hāyâ' (הָיָה), cuja origem exata é incerta, mas frequentemente associada a um verbo primitivo que significa 'tornar-se' ou 'estar'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 5:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Haja luz; e a luz foi.",
+      "verse": 3,
+      "chapter": 1
+    },
+    {
+      "book": "ex",
+      "text": "E disse Deus a Moisés: EU SOU O QUE SOU. Disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.",
+      "verse": 14,
+      "chapter": 3
+    },
+    {
+      "book": "js",
+      "text": "Ninguém te poderá resistir todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei nem te desampararei.",
+      "verse": 5,
+      "chapter": 1
+    },
+    {
+      "book": "1sm",
+      "text": "Então Samuel tomou o chifre do azeite, e ungiu-o no meio de seus irmãos. E desde aquele dia em diante o Espírito do Senhor apoderou-se de Davi. Depois levantou-se Samuel, e foi para Ramá.",
+      "verse": 13,
+      "chapter": 16
+    },
+    {
+      "book": "sl",
+      "text": "Antes que as montanhas fossem geradas, ou que tu criasses a terra e o mundo, sim, desde a eternidade até a eternidade, tu és Deus.",
+      "verse": 2,
+      "chapter": 90
+    },
+    {
+      "book": "is",
+      "text": "Também antes que o dia fosse, eu sou; e ninguém há que escape da minha mão; operarei, e quem o impedirá?",
+      "verse": 13,
+      "chapter": 43
+    },
+    {
+      "book": "jr",
+      "text": "Porque eu bem sei os planos que tenho para vós, diz o Senhor; planos de paz e não de mal, para vos dar um fim e uma esperança.",
+      "verse": 11,
+      "chapter": 29
+    },
+    {
+      "book": "mt",
+      "text": "E eis que uma virgem estará grávida e dará à luz um filho, e lhe chamará o nome de Emanuel, que, interpretado, é: Deus connosco.",
+      "verse": 23,
+      "chapter": 1
+    },
+    {
+      "book": "lc",
+      "text": "Porque para Deus nada é impossível.",
+      "verse": 37,
+      "chapter": 1
+    },
+    {
+      "book": "ap",
+      "text": "Eu sou o Alfa e o Ómega, o princípio e o fim, diz o Senhor, aquele que é, e que era, e que há de vir, o Todo-Poderoso.",
+      "verse": 8,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2025-12-19T15:32:49.889+00:00"
+}

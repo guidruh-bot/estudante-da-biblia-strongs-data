@@ -1,0 +1,77 @@
+{
+  "id": "H1288",
+  "language": "hebrew",
+  "original_word": "abençoou",
+  "transliteration": "barak",
+  "pronunciation": "bah-RAHK",
+  "short_definition": "Abençoar, louvar, agradecer, ou invocar bênçãos.",
+  "full_definition": "O verbo hebraico 'barak' (בָּרַךְ) é multifacetado, abrangendo não apenas a ideia de conceder ou receber bênçãos divinas, mas também louvor, gratidão e até mesmo a invocação de maldições (embora este último seja menos comum e frequentemente contextual). Na sua raiz, carrega a noção de algo que é bom ou benéfico. Em Gênesis 2:3, Deus 'abençoou' o sétimo dia, o que implica santificação e a separação para um propósito especial.",
+  "etymology": "A raiz hebraica para 'barak' é incerta, mas pode estar relacionada a uma raiz antiga que significa 'ajoelhar-se' ou 'abençoar'. Outra teoria sugere uma conexão com a ideia de 'falar bem de'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 2:3",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E Deus os abençoou, dizendo: Frutificai e multiplicai-vos...",
+      "verse": 22,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E disse ele: Eis que tenho a ti, pois abençoado és do Senhor...",
+      "verse": 31,
+      "chapter": 24
+    },
+    {
+      "book": "gn",
+      "text": "E Jacó disse a seu pai: Eu sou o teu primogênito Esaú; já te tenho feito como me disseste; levanta-te, assenta-te, e come da minha caça, para que me abençoes.",
+      "verse": 19,
+      "chapter": 27
+    },
+    {
+      "book": "sl",
+      "text": "Que Deus tenha misericórdia de nós e nos abençoe; que faça resplandecer o seu rosto sobre nós.",
+      "verse": 1,
+      "chapter": 67
+    },
+    {
+      "book": "is",
+      "text": "Naquele dia Israel será o terceiro com o Egito e com a Assíria, uma bênção no meio da terra.",
+      "verse": 24,
+      "chapter": 19
+    },
+    {
+      "book": "lc",
+      "text": "Glória a Deus nas alturas, paz na terra, boa vontade para com os homens.",
+      "verse": 14,
+      "chapter": 2
+    },
+    {
+      "book": "lc",
+      "text": "E levou-os até Betânia e, levantando as mãos, os abençoou.",
+      "verse": 50,
+      "chapter": 24
+    },
+    {
+      "book": "at",
+      "text": "Deus, ressurgindo o seu Servo, enviou-o primeiramente a vós, para abençoar-vos, a fim de que do seu mal não se afaste nenhum de vós.",
+      "verse": 26,
+      "chapter": 3
+    },
+    {
+      "book": "gl",
+      "text": "Onde está, pois, a exaltação que tínheis? Porque testifico que, se possível fora, teríeis arrancado os vossos olhos, e os teríeis dado a mim.",
+      "verse": 15,
+      "chapter": 4
+    },
+    {
+      "book": "ap",
+      "text": "Dizendo: Amém. A bênção, e a glória, e a sabedoria, e as ações de graças, e a honra, e o poder, e a força sejam ao nosso Deus, para todo o sempre. Amém.",
+      "verse": 12,
+      "chapter": 7
+    }
+  ],
+  "generated_at": "2025-12-20T01:29:48.739+00:00"
+}

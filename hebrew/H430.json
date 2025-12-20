@@ -1,0 +1,77 @@
+{
+  "id": "H430",
+  "language": "hebrew",
+  "original_word": "deus",
+  "transliteration": "Elohim",
+  "pronunciation": "el-o-HEEM",
+  "short_definition": "O nome plural genérico para 'Deus' em hebraico, denotando divindade e poder.",
+  "full_definition": "Etimologicamente, 'Elohim' deriva da raiz 'El' (Deus, força) e é uma forma plural. O plural aqui pode expressar a plenitude, majestade e soberania de Deus, em vez de indicar múltiplos deuses. É usado tanto para o Deus verdadeiro de Israel quanto para divindades pagãs em contextos específicos. No singular, 'El' é um nome mais genérico e comum para Deus, enquanto 'Elohim' é frequentemente usado em contextos que enfatizam a majestade, o poder criador e a transcendência divina.",
+  "etymology": "A raiz hebraica é 'El' (אֵל), significando 'Deus', 'poder', 'força'. A terminação '-im' é uma terminação plural comum em hebraico. A origem mais remota pode estar ligada a raízes semíticas que significam 'adorar' ou 'temer'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 3:5",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "No princípio criou Deus (Elohim) os céus e a terra.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "ex",
+      "text": "Disse mais: Não te aproximes daqui; tira as sandálias dos pés; porque o lugar em que estás é terra santa.",
+      "verse": 5,
+      "chapter": 3
+    },
+    {
+      "book": "dt",
+      "text": "Guardarás o dia de sábado para o santificar, como te ordenou o Senhor teu Deus.",
+      "verse": 12,
+      "chapter": 5
+    },
+    {
+      "book": "js",
+      "text": "Então disse Josué ao povo: Não podereis servir ao Senhor, porque é Deus (Elohim) santo, Deus (El) zeloso, que não perdoará as vossas transgressões nem os vossos pecados.",
+      "verse": 19,
+      "chapter": 24
+    },
+    {
+      "book": "sl",
+      "text": "Um dia discursa outro dia, e uma noite revela outra noite.",
+      "verse": 2,
+      "chapter": 19
+    },
+    {
+      "book": "sl",
+      "text": "Ao músico-mor. Um salmo de Davi. Diz o insensato no seu coração: Não há Deus. Corromperam-se e cometeram abomináveis iniquidades; não há ninguém que faça o bem.",
+      "verse": 1,
+      "chapter": 14
+    },
+    {
+      "book": "is",
+      "text": "Não sabes, não ouviste que o Deus (Elohim) eterno, o Senhor, o Criador dos fins da terra, nem fadigará nem se cansará? Não há quem possa investigar o seu entendimento.",
+      "verse": 28,
+      "chapter": 40
+    },
+    {
+      "book": "jr",
+      "text": "Eis que eu sou o Senhor, o Deus de toda a carne; acaso há alguma coisa difícil demais para mim?",
+      "verse": 27,
+      "chapter": 32
+    },
+    {
+      "book": "mt",
+      "text": "Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó? Ora, Deus não é Deus dos mortos, mas sim dos vivos.",
+      "verse": 32,
+      "chapter": 22
+    },
+    {
+      "book": "mc",
+      "text": "E, quanto aos mortos, que hão de ressuscitar, não tendes lido no livro de Moisés, perto da sarça, como Deus lhe falou, dizendo: Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó?",
+      "verse": 26,
+      "chapter": 12
+    }
+  ],
+  "generated_at": "2025-12-20T01:40:22.578+00:00"
+}
