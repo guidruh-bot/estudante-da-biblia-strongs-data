@@ -1,0 +1,77 @@
+{
+  "id": "G2344",
+  "language": "greek",
+  "original_word": "tesouro",
+  "transliteration": "thesauros",
+  "pronunciation": "theh-sau-ROS",
+  "short_definition": "Um tesouro, um local de armazenamento para bens valiosos.",
+  "full_definition": "Refere-se a um acúmulo de bens valiosos, como ouro, prata, joias, ou qualquer coisa de grande valor. O termo pode ser usado literalmente para um cofre ou depósito de riqueza, mas também metaforicamente para descrever algo de imenso valor espiritual ou emocional, como as riquezas do céu, ou as intenções e pensamentos do coração humano.",
+  "etymology": "Deriva do grego clássico 'thesauros', que significa 'um lugar para guardar, depósito, tesouro'. A raiz provável é 'thes' (colocar, pôr) combinada com 'saur-' (semelhante a 'sauros', lagarto, mas neste contexto provavelmente relacionado a 'sozo', salvar, ou uma raiz que implica guardar e proteger).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "lc 6:45",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "Não acumuleis para vós outros tesouros sobre a terra...",
+      "verse": 19,
+      "chapter": 6
+    },
+    {
+      "book": "mt",
+      "text": "O reino dos céus é semelhante a um tesouro...",
+      "verse": 44,
+      "chapter": 13
+    },
+    {
+      "book": "mt",
+      "text": "...todo escriba instruído quanto ao reino dos céus é semelhante a um amo de casa que tira do seu depósito...",
+      "verse": 52,
+      "chapter": 13
+    },
+    {
+      "book": "mc",
+      "text": "Jesus, olhando para ele, o amou e lhe disse: Uma coisa ainda te falta; vai, vende tudo o que tens e dá-o aos pobres...",
+      "verse": 21,
+      "chapter": 10
+    },
+    {
+      "book": "lc",
+      "text": "Vendei o que tendes e dai esmolas; fazei para vós outros bolsas que não se esgotam, tesouro inextinguível no céu...",
+      "verse": 33,
+      "chapter": 12
+    },
+    {
+      "book": "lc",
+      "text": "Ouvindo Jesus isto, lhe disse: Ainda te falta uma coisa: vende tudo o que tens, e distribui-o aos pobres...",
+      "verse": 22,
+      "chapter": 18
+    },
+    {
+      "book": "cl",
+      "text": "Nele estão ocultos todos os tesouros da sabedoria e do conhecimento.",
+      "verse": 3,
+      "chapter": 2
+    },
+    {
+      "book": "hb",
+      "text": "Considerando o opróbrio de Cristo, maiores riquezas do que os tesouros do Egito...",
+      "verse": 26,
+      "chapter": 11
+    },
+    {
+      "book": "tg",
+      "text": "Atentai, agora, vós, os ricos: chorai e pranteai por vossas desgraças que vos sobrevirão.",
+      "verse": 1,
+      "chapter": 5
+    },
+    {
+      "book": "ap",
+      "text": "Porque em uma hora desapareceu tanta riqueza.",
+      "verse": 17,
+      "chapter": 18
+    }
+  ],
+  "generated_at": "2025-12-20T23:37:16.544+00:00"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "G1921",
+  "language": "greek",
+  "original_word": "conhece",
+  "transliteration": "epiginōskō",
+  "pronunciation": "ep-ee-GHEE-noh-sko",
+  "short_definition": "Conhecer ou reconhecer plenamente, distinguir.",
+  "full_definition": "Este verbo grego significa conhecer, reconhecer, discernir, compreender plenamente ou ter conhecimento sobre algo ou alguém. Frequentemente implica um conhecimento mais profundo e experimental do que 'ginōskō' (conhecer). Pode se referir a um conhecimento adquirido através da experiência ou a um reconhecimento após uma observação cuidadosa. No contexto de Lucas 6:44, indica a capacidade de discernir a natureza de uma árvore pelos seus frutos, um conhecimento prático e aplicativo.",
+  "etymology": "Composto de 'epi' (sobre, em cima de) e 'ginōskō' (saber, conhecer). A preposição 'epi' adiciona a ideia de um conhecimento que vem 'sobre' a pessoa, ou um conhecimento mais completo e aprofundado.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "lc 6:44",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "Pelos seus frutos os conhecereis.",
+      "verse": 16,
+      "chapter": 7
+    },
+    {
+      "book": "mc",
+      "text": "Nada há oculto que não venha a ser revelado.",
+      "verse": 22,
+      "chapter": 4
+    },
+    {
+      "book": "lc",
+      "text": "Pois nada está oculto em segredo que não venha a ser conhecido e descoberto.",
+      "verse": 17,
+      "chapter": 8
+    },
+    {
+      "book": "jo",
+      "text": "Natanael respondeu: Mestre, tu és o Rei de Israel!",
+      "verse": 49,
+      "chapter": 1
+    },
+    {
+      "book": "jo",
+      "text": "E a vida eterna é esta: que Te conheçam, o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste.",
+      "verse": 3,
+      "chapter": 17
+    },
+    {
+      "book": "at",
+      "text": "Mas os espíritos maus responderam: Jesus, eu conheço, e Paulo, eu também sei quem é.",
+      "verse": 15,
+      "chapter": 19
+    },
+    {
+      "book": "rm",
+      "text": "e conheces a vontade de Deus e aprovas as coisas excelentes, sendo instruído pela lei.",
+      "verse": 18,
+      "chapter": 2
+    },
+    {
+      "book": "1co",
+      "text": "Agora, porém, vemos como por um espelho, em enigma; mas em breve veremos face a face. Agora conheço em parte; mas em breve conhecerei como também sou conhecido.",
+      "verse": 12,
+      "chapter": 13
+    },
+    {
+      "book": "gl",
+      "text": "Mas agora, conhecendo a Deus, ou antes, sendo conhecidos por Deus, como tornais a voltar para os frágeis e pobres rudimentos, para os quais de novo quereis escravizar-vos?",
+      "verse": 9,
+      "chapter": 4
+    },
+    {
+      "book": "2tm",
+      "text": "Todavia, o fundamento de Deus permanece firme, tendo este selo: O Senhor conhece os que são seus, e: Afaste-se da iniquidade todo aquele que profere o nome do Senhor.",
+      "verse": 19,
+      "chapter": 2
+    }
+  ],
+  "generated_at": "2025-12-20T22:54:38.125+00:00"
+}

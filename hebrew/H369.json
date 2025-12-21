@@ -1,0 +1,77 @@
+{
+  "id": "H369",
+  "language": "hebrew",
+  "original_word": "ninguém",
+  "transliteration": "ayin",
+  "pronunciation": "a-yin",
+  "short_definition": "Indica ausência, inexistência ou negação.",
+  "full_definition": "O hebraico 'ayin' (אֵין) é uma partícula hebraica fundamental que denota negação ou a ausência de algo. É frequentemente traduzida como 'não há', 'não existe', 'nenhum', 'sem'. Sua função primária é expressar a inexistência de uma entidade, qualidade ou ação. No contexto de Deuteronômio 34:6 ('E ele o sepultou num vale na terra de Moabe, em frente de Bet-Peor; porém ninguém soube até o dia de hoje onde ele estivesse.'), 'ayin' é crucial para afirmar a completa ausência de conhecimento público sobre o local do sepultamento de Moisés, destacando a privacidade e o mistério intencional em torno do evento.",
+  "etymology": "Deriva da raiz hebraica 'ayin' (עַיִן), que significa 'olho' ou 'fonte'. Embora semanticamente distante, a conexão pode ser hipoteticamente ligada à ideia de 'ver' ou 'detectar', onde a ausência de 'ver' ou 'fonte' de informação leva à inexistência.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "dt 34:6",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "A terra estava sem forma e vazia...",
+      "verse": 2,
+      "chapter": 1
+    },
+    {
+      "book": "ex",
+      "text": "O Senhor falava com Moisés cara a cara...",
+      "verse": 11,
+      "chapter": 33
+    },
+    {
+      "book": "lv",
+      "text": "Se rejeitarem os meus estatutos...",
+      "verse": 15,
+      "chapter": 26
+    },
+    {
+      "book": "dt",
+      "text": "E os amorreus que ali habitavam...",
+      "verse": 44,
+      "chapter": 1
+    },
+    {
+      "book": "js",
+      "text": "Escolham hoje a quem sirvam...",
+      "verse": 15,
+      "chapter": 24
+    },
+    {
+      "book": "jz",
+      "text": "Naqueles dias, não havia rei em Israel...",
+      "verse": 6,
+      "chapter": 17
+    },
+    {
+      "book": "sl",
+      "text": "O Senhor é o meu pastor; nada me faltará.",
+      "verse": 1,
+      "chapter": 23
+    },
+    {
+      "book": "pv",
+      "text": "Abre a boca, julga com retidão...",
+      "verse": 9,
+      "chapter": 31
+    },
+    {
+      "book": "is",
+      "text": "Com quem, pois, o comparareis...",
+      "verse": 18,
+      "chapter": 40
+    },
+    {
+      "book": "jr",
+      "text": "Não há ninguém como tu, Senhor...",
+      "verse": 6,
+      "chapter": 10
+    }
+  ],
+  "generated_at": "2025-12-20T22:11:03.247+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "G943",
+  "language": "greek",
+  "original_word": "blasto",
+  "transliteration": "blastos",
+  "pronunciation": "BLAS-tos",
+  "short_definition": "Broto, gomo ou crescimento que emerge.",
+  "full_definition": "Refere-se a um broto, um jovem crescimento, ou um botão de planta que está prestes a florescer ou dar fruto. Em um sentido figurado, pode indicar um desenvolvimento ou um surgimento. No contexto de Atos 12:20, onde Herodes estava irritado com os habitantes de Tiro e Sidom, que vieram a ele em busca de paz, eles enviaram embaixadores que buscaram reconciliação e paz, pois suas regiões eram supridas de alimento pelo reino de Herodes. O termo, neste contexto, descreve a interdependência econômica e o perigo de um 'corte' nesse suprimento, como se a fonte de sustento fosse cortada em sua raiz.",
+  "etymology": "Derivado da raiz grega \"βλάω\" (blao), que significa 'brotar', 'germinar' ou 'crescer'. Relacionado a \"βλαστέω\" (blasteō), o verbo 'brotar'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ato 12:20",
+  "cross_references": [
+    {
+      "book": "at",
+      "text": "Ora, Herodes estava indignado contra os de Tiro e de Sidom; mas eles, vindo de comum acordo a ele, e tendo convencido Blasto, que era camareiro do rei, pediam paz; porque a sua região era nutrida pela do rei.",
+      "verse": 20,
+      "chapter": 12
+    },
+    {
+      "book": "lc",
+      "text": "Porque não há árvore boa que dê mau fruto, nem árvore má que dê bom fruto.",
+      "verse": 43,
+      "chapter": 6
+    },
+    {
+      "book": "lc",
+      "text": "Porque cada árvore se conhece pelo seu próprio fruto; pois não se colhem figos dos espinheiros, nem se vindimam uvas dos abrolhos.",
+      "verse": 44,
+      "chapter": 6
+    }
+  ],
+  "generated_at": "2025-12-20T11:58:53.908+00:00"
+}
