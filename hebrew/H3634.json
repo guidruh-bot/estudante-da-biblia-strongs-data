@@ -1,0 +1,77 @@
+{
+  "id": "H3634",
+  "language": "hebrew",
+  "original_word": "acabados",
+  "transliteration": "kālu",
+  "pronunciation": "kaw-LOO",
+  "short_definition": "Eles foram concluídos, terminados ou completados.",
+  "full_definition": "Este verbo hebraico, na forma Piel (intensivo), denota a conclusão de uma ação ou estado. Em Gênesis 2:1, 'acabados' descreve a finalização da obra da criação, indicando que tudo estava completo e em perfeição.",
+  "etymology": "Deriva da raiz hebraica Qal (כָּלָה - kalah), que significa 'terminar', 'completar', 'esgotar', 'consumir'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 2:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Assim, pois, foram acabados os céus, a terra e todo o seu exército.",
+      "verse": 1,
+      "chapter": 2
+    },
+    {
+      "book": "ex",
+      "text": "Assim, pois, foi acabada toda a obra do tabernáculo do testemunho, segundo tudo o que o Senhor ordenara a Moisés; assim a fizeram.",
+      "verse": 32,
+      "chapter": 39
+    },
+    {
+      "book": "lv",
+      "text": "E comereis da colheita velha, e no ano seguinte trareis da colheita velha; e no terceiro ano semeareis, e ceifareis, e plantareis vinhas, e comereis os seus frutos.",
+      "verse": 10,
+      "chapter": 26
+    },
+    {
+      "book": "dt",
+      "text": "Ora, os dias que andámos de Cades-Barneia até que passamos o ribeiro de Zerede foram trinta e oito anos, até que toda aquela geração de homens de guerra pereceu do meio do arraial, como o Senhor lhes tinha jurado.",
+      "verse": 14,
+      "chapter": 2
+    },
+    {
+      "book": "js",
+      "text": "Estando Jericó fechada e bem fechada por causa dos filhos de Israel; ninguém saía, nem entrava.",
+      "verse": 1,
+      "chapter": 6
+    },
+    {
+      "book": "sl",
+      "text": "Deus é o justo juiz, forte e paciente; e Deus se ira justamente a cada dia.",
+      "verse": 11,
+      "chapter": 7
+    },
+    {
+      "book": "sl",
+      "text": "Clamarei ao Deus Altíssimo, ao Deus que por mim faz tudo.",
+      "verse": 2,
+      "chapter": 57
+    },
+    {
+      "book": "pv",
+      "text": "O Senhor fez todas as coisas para os seus próprios fins, sim, até o ímpio para o dia do mal.",
+      "verse": 4,
+      "chapter": 16
+    },
+    {
+      "book": "is",
+      "text": "Anunciando desde o princípio o que há de acontecer, e desde os tempos antigos as coisas que ainda não sucederam; dizendo: O meu conselho será firme, e farei toda a minha vontade;",
+      "verse": 10,
+      "chapter": 46
+    },
+    {
+      "book": "ez",
+      "text": "Assim se cumprirá a minha ira, e satisfarei a minha indignação sobre eles, e saberei que eu, o Senhor, falei no meu zelo, quando eu cum   plir neles a minha indignação.",
+      "verse": 13,
+      "chapter": 5
+    }
+  ],
+  "generated_at": "2025-12-22T03:19:46.049+00:00"
+}
