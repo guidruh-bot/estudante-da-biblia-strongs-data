@@ -1,0 +1,41 @@
+{
+  "id": "H3117",
+  "language": "hebrew",
+  "original_word": "hoje",
+  "transliteration": "hayyom",
+  "pronunciation": "hah-yohm",
+  "short_definition": "Neste dia, hoje",
+  "full_definition": "A palavra 'hayyom' (הַיּוֹם) é composta pelo artigo definido 'ha-' (הַ) que significa 'o/a' e 'yom' (יוֹם) que significa 'dia'. Portanto, 'hayyom' literalmente significa 'o dia' ou, no contexto temporal, 'neste dia' ou 'hoje'. É usada para indicar o tempo presente, o dia em que se fala ou escreve, ou um ponto específico no tempo que é enfatizado.",
+  "etymology": "Deriva da raiz hebraica 'yom' (יוֹם), que significa 'dia'. A adição do artigo definido 'ha-' (הַ) transforma o substantivo 'dia' em um advérbio de tempo 'hoje' ou 'neste dia'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "dt 9:1",
+  "cross_references": [
+    {
+      "book": "dt",
+      "text": "Ouve, ó Israel, hoje passarás o Jordão, para entrares a possuir nações maiores e mais fortes do que tu; cidades grandes, e muradas até aos céus;",
+      "verse": 1,
+      "chapter": 9
+    },
+    {
+      "book": "sl",
+      "text": "Porque ele é o nosso Deus, e nós, povo do seu pasto e ovelhas da sua mão. Se **hoje** ouvirdes a sua voz,",
+      "verse": 7,
+      "chapter": 95
+    },
+    {
+      "book": "hb",
+      "text": "Antes, exortai-vos uns aos outros todos os dias, durante o tempo que se chama **Hoje**, para que nenhum de vós se endureça pelo engano do pecado;",
+      "verse": 13,
+      "chapter": 3
+    },
+    {
+      "book": "ex",
+      "text": "Porque Moisés havia dito: Consagrai-vos **hoje** ao Senhor, cada um contra seu filho e contra seu irmão, para que ele vos conceda a bênção neste dia.",
+      "verse": 29,
+      "chapter": 32
+    }
+  ],
+  "generated_at": "2025-12-28T19:30:54.948+00:00"
+}
