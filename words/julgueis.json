@@ -1,0 +1,41 @@
+{
+  "id": "G2919",
+  "language": "greek",
+  "original_word": "julgueis",
+  "transliteration": "krinō",
+  "pronunciation": "KREE-no",
+  "short_definition": "Julgar, decidir, separar, discernir, condenar",
+  "full_definition": "Este verbo grego tem uma rica gama de significados. Pode se referir a: 1. Discenir, diferenciar, separar. 2. Passar por um processo mental de julgamento e decisão. 3. Proferir uma opinião ou veredito. 4. Julgar em um tribunal de justiça, seja como juiz ou como parte do processo. 5. Condenar ou sentenciar. 6. Decidir sobre algo, resolver. O contexto é crucial para determinar o matiz exato do significado.",
+  "etymology": "De uma raiz que significa separar, distinguir, daí avaliar uma questão. Relacionado a krisis (G2920, julgamento).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "mt 7:1",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "Não julgueis, para que não sejais julgados.",
+      "verse": 1,
+      "chapter": 7
+    },
+    {
+      "book": "jo",
+      "text": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse (κρίνω) o mundo, mas para que o mundo fosse salvo por ele.",
+      "verse": 17,
+      "chapter": 3
+    },
+    {
+      "book": "rm",
+      "text": "Portanto, és inescusável quando julgas (κρίνω), ó homem, quem quer que sejas, porque te condenas a ti mesmo naquilo em que julgas a outrem; pois tu, que julgas, fazes o mesmo.",
+      "verse": 1,
+      "chapter": 2
+    },
+    {
+      "book": "1co",
+      "text": "Pois, que me importa julgar (κρίνω) os que estão de fora? Não julgais vós os que estão de dentro?",
+      "verse": 12,
+      "chapter": 5
+    }
+  ],
+  "generated_at": "2025-12-31T02:44:36.026+00:00"
+}

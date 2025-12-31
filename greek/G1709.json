@@ -1,0 +1,23 @@
+{
+  "id": "G1709",
+  "language": "greek",
+  "original_word": "respirando",
+  "transliteration": "empneō",
+  "pronunciation": "emp-neh'-o",
+  "short_definition": "Respirar em, insuflar, exalar, figurativamente: estar cheio de uma paixão, ameaçar",
+  "full_definition": "Este verbo grego significa literalmente 'respirar em' ou 'insuflar'. No uso figurativo, como em Atos 9:1, ele descreve uma pessoa \"respirando\" uma certa atitude ou paixão. A imagem é vívida: Saulo estava tão consumido por sua hostilidade que parecia inalar e exalar ameaças e sede de morte contra os discípulos. Sugere uma atividade contínua e apaixonada.",
+  "etymology": "Do prefixo 'en' (em, dentro) e 'pneō' (respirar, soprar). A raiz 'pneō' é a mesma de pneumos (espírito, fôlego).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ato 9:1",
+  "cross_references": [
+    {
+      "book": "at",
+      "text": "Saulo, porém, **respirando** ainda ameaças e morte contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote",
+      "verse": 1,
+      "chapter": 9
+    }
+  ],
+  "generated_at": "2025-12-30T15:47:48.176+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H4912",
+  "language": "hebrew",
+  "original_word": "provérbios",
+  "transliteration": "mashal",
+  "pronunciation": "mah-shawl",
+  "short_definition": "Máxima breve, provérbio, parábola, poema alegórico",
+  "full_definition": "A palavra 'mashal' refere-se a uma declaração curta e concisa que expressa uma verdade observável da vida ou uma lição moral. Pode ser uma comparação, uma metáfora, um enigma ou uma alegoria. No livro de Provérbios, designa principalmente as máximas sapienciais que oferecem instrução prática e sabedoria ética. Também pode significar um lamento, uma profecia, ou um discurso figurado, dependendo do contexto.",
+  "etymology": "Derivado da raiz verbal 'māshal' (מָשַׁל) que significa 'governar, dominar' ou 'ser semelhante a', 'comparar'. A conexão etimológica sugere que um provérbio 'governa' ou 'compara' a verdade, ou estabelece um padrão.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "pv 1:1",
+  "cross_references": [
+    {
+      "book": "pv",
+      "text": "Provérbios de Salomão, filho de Davi, rei de Israel;",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "pv",
+      "text": "Para entender os provérbios e sua interpretação; as palavras dos sábios e as suas proposições.",
+      "verse": 6,
+      "chapter": 1
+    },
+    {
+      "book": "pv",
+      "text": "Também estes são provérbios de Salomão, que transcreveram os homens de Ezequias, rei de Judá.",
+      "verse": 1,
+      "chapter": 25
+    },
+    {
+      "book": "nm",
+      "text": "Então, proferiu Balaão o seu provérbio e disse: De Arã me trouxe Balaque, rei de Moabe, das montanhas do Oriente: Vem, amaldiçoa-me a Jacó! Vem, detesta a Israel!",
+      "verse": 7,
+      "chapter": 23
+    },
+    {
+      "book": "ez",
+      "text": "Filho do homem, que provérbio é este que vós tendes na terra de Israel, dizendo: Os dias se prolongam, e perece toda a visão?",
+      "verse": 22,
+      "chapter": 12
+    }
+  ],
+  "generated_at": "2025-12-30T06:09:17.553+00:00"
+}

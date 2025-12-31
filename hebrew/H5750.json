@@ -1,0 +1,41 @@
+{
+  "id": "H5750",
+  "language": "hebrew",
+  "original_word": "ainda",
+  "transliteration": "ʿôd",
+  "pronunciation": "ode",
+  "short_definition": "Ainda, mais, novamente, além",
+  "full_definition": "Este advérbio denota continuidade, adição, repetição ou permanência. Pode indicar algo que persiste (ainda), algo adicional (mais), ou uma ação que ocorre novamente (outra vez). Em determinados contextos, pode expressar também a ideia de para sempre ou perpetuidade, ou, em construções negativas, 'não mais'.",
+  "etymology": "Provavelmente derivado de uma raiz primitiva que significa 'voltar, repetir, adicionar'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 4:18",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Então foi Moisés, e voltou para Jetro, seu sogro, e disse-lhe: Eu irei agora, e tornarei a meus irmãos, que estão no Egito, para ver se ainda vivem. Disse, pois, Jetro a Moisés: Vai em paz.",
+      "verse": 18,
+      "chapter": 4
+    },
+    {
+      "book": "sl",
+      "text": "Por que estás abatida, ó minha alma, e por que te perturbas em mim? Espera em Deus, pois ainda o louvarei pela salvação da sua face.",
+      "verse": 5,
+      "chapter": 42
+    },
+    {
+      "book": "is",
+      "text": "Nunca mais te chamarão Desamparada, nem a tua terra se chamará jamais Desolada; mas chamar-te-ão Hefzibá (Minha Delícia Nela) e à tua terra Beulá (Casada); porque o SENHOR se agrada de ti, e a tua terra se casará. ",
+      "verse": 4,
+      "chapter": 62
+    },
+    {
+      "book": "gn",
+      "text": "E disse-lhes: Eis que ainda é muito dia, não é tempo de ajuntar o gado; dai de beber às ovelhas, e ide apascentá-las.",
+      "verse": 7,
+      "chapter": 29
+    }
+  ],
+  "generated_at": "2025-12-31T02:37:12.993+00:00"
+}

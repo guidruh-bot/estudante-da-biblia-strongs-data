@@ -1,0 +1,41 @@
+{
+  "id": "G200",
+  "language": "greek",
+  "original_word": "gafanhotos",
+  "transliteration": "akris",
+  "pronunciation": "ak-reece",
+  "short_definition": "Um gafanhoto, um inseto saltador e destruidor de colheitas.",
+  "full_definition": "A palavra grega ἀκρίς (akris) refere-se a um gafanhoto ou, de modo mais geral, a uma locusta. Na Bíblia, é predominantemente usada para designar esses insetos como um flagelo, praga ou fonte de alimento, dependendo do contexto. É um inseto comumente encontrado no Oriente Médio, conhecido por sua capacidade de migrar em grandes nuvens e devastar a vegetação.",
+  "etymology": "A origem da palavra ἀκρίς (akris) é incerta, mas pode estar relacionada a 'κρέας' (kreas, 'carne') em referência à sua comestibilidade ou 'ἄκρος' (akros, 'ponta', 'extremidade'), talvez devido às suas pernas terminando em pontas afiadas para saltar.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ap 9:3",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "João usava roupas de pelos de camelo e um cinto de couro na cintura; sua comida era gafanhotos e mel silvestre.",
+      "verse": 4,
+      "chapter": 3
+    },
+    {
+      "book": "mc",
+      "text": "João vestia-se de pelos de camelo e usava um cinto de couro na cintura; comia gafanhotos e mel silvestre.",
+      "verse": 6,
+      "chapter": 1
+    },
+    {
+      "book": "ap",
+      "text": "E da fumaça vieram gafanhotos sobre a terra; e foi-lhes dado poder, como o poder que têm os escorpiões da terra.",
+      "verse": 3,
+      "chapter": 9
+    },
+    {
+      "book": "ap",
+      "text": "E o parecer dos gafanhotos era semelhante ao de cavalos aparelhados para a guerra; e sobre as suas cabeças havia umas como coroas semelhantes ao ouro; e os seus rostos eram como rostos de homens.",
+      "verse": 7,
+      "chapter": 9
+    }
+  ],
+  "generated_at": "2025-12-30T04:03:37.227+00:00"
+}

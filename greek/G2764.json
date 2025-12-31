@@ -1,0 +1,35 @@
+{
+  "id": "G2764",
+  "language": "greek",
+  "original_word": "pontas",
+  "transliteration": "keratōn",
+  "pronunciation": "ker-ah'-ton",
+  "short_definition": "Chifres, extremidades pontudas",
+  "full_definition": "Este é o genitivo plural de κέρας (keras), que significa chifre, tanto o apêndice ósseo da cabeça de animais quanto figurativamente, extremidades pontudas ou projeções de objetos, como nos cantos de um altar. Também pode significar poder ou força, simbolizado pelos chifres.",
+  "etymology": "Do proto-indo-europeu *ker- (cabeça, chifre). Relacionado ao latim cornu, inglês horn. Frequentemente associado a objetos pontiagudos ou saliências visíveis, como chifres de animais, ou os 'chifres' de um altar.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ap 9:13",
+  "cross_references": [
+    {
+      "book": "ap",
+      "text": "E tocou o sexto anjo a sua trombeta, e ouvi uma voz que vinha das quatro pontas do altar de ouro, que estava diante de Deus,",
+      "verse": 13,
+      "chapter": 9
+    },
+    {
+      "book": "ap",
+      "text": "Vi levantar-se do mar uma besta que tinha dez **chifres** e sete cabeças, e nas suas cabeças dez diademas, e sobre as suas cabeças nomes de blasfêmia.",
+      "verse": 1,
+      "chapter": 13
+    },
+    {
+      "book": "lc",
+      "text": "E nos levantou uma salvação poderosa (**chifre** de salvação) na casa de Davi, seu servo.",
+      "verse": 69,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2025-12-30T04:11:31.959+00:00"
+}

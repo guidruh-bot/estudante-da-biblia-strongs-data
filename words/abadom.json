@@ -1,0 +1,35 @@
+{
+  "id": "G3",
+  "language": "greek",
+  "original_word": "abadom",
+  "transliteration": "Abaddōn",
+  "pronunciation": "ab-ad-dohn",
+  "short_definition": "Um nome para o anjo do abismo, significando 'destruição'.",
+  "full_definition": "Abaddon é a transliteração grega de uma palavra hebraica que significa 'destruição' ou 'lugar da destruição'. No Novo Testamento, é personificado como o nome do anjo do abismo, o rei dos gafanhotos demoníacos. No Antigo Testamento, a palavra hebraica 'abaddōn' (H10) é usada como um substantivo comum para referir-se à destruição ou ao lugar da destruição, frequentemente associado ao Sheol ou à morte.",
+  "etymology": "Do hebraico אֲבַדּוֹן (abaddōn, H10), que se deriva do verbo אָבַד (abad, H6), 'perecer, destruir, fazer perecer'. A terminação grega 'ōn' foi adicionada para formar o nome próprio.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ap 9:11",
+  "cross_references": [
+    {
+      "book": "ap",
+      "text": "E tinham sobre si rei, o anjo do abismo; em hebreu era o seu nome Abadom, e em grego Apoliom.",
+      "verse": 11,
+      "chapter": 9
+    },
+    {
+      "book": "jó",
+      "text": "O inferno está nu perante ele, e não há coberta para a destruição (אֲבַדּוֹן).",
+      "verse": 6,
+      "chapter": 26
+    },
+    {
+      "book": "sl",
+      "text": "Será anunciada a tua benignidade na sepultura, ou a tua fidelidade na perdição (אֲבַדּוֹן)?",
+      "verse": 11,
+      "chapter": 88
+    }
+  ],
+  "generated_at": "2025-12-30T04:04:42.149+00:00"
+}

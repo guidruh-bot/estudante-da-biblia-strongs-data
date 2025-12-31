@@ -1,0 +1,41 @@
+{
+  "id": "G1325",
+  "language": "greek",
+  "original_word": "dada",
+  "transliteration": "didōmi",
+  "pronunciation": "dih'-do-mee",
+  "short_definition": "Dar, conceder, entregar, permitir.",
+  "full_definition": "Este verbo significa fundamentalmente 'dar', seja fisicamente (entregar algo), figurativamente (conceder, permitir, atribuir) ou de forma mais abstrata (oferecer, apresentar). Pode implicar uma transferência de propriedade, poder, autoridade ou mesmo de um estado ou condição. O contexto é crucial para determinar a nuance exata.",
+  "etymology": "De uma raiz primária (de onde vêm o inglês 'dote' e 'donor'); dar (no sentido mais amplo, literal ou figurativo).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ap 9:1",
+  "cross_references": [
+    {
+      "book": "jo",
+      "text": "Porque Deus amou o mundo de tal maneira que **deu** o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+      "verse": 16,
+      "chapter": 3
+    },
+    {
+      "book": "mt",
+      "text": "E, chegando-se Jesus, falou-lhes, dizendo: Toda a autoridade me foi **dada** no céu e na terra.",
+      "verse": 18,
+      "chapter": 28
+    },
+    {
+      "book": "ap",
+      "text": "E o quinto anjo tocou a sua trombeta, e vi uma estrela que do céu caiu na terra; e foi-lhe dada a chave do poço do abismo.",
+      "verse": 1,
+      "chapter": 9
+    },
+    {
+      "book": "rm",
+      "text": "Porque, pela graça que me foi **dada**, digo a cada um de vós que não pense de si mesmo além do que convém; antes, pense com moderação, segundo a medida da fé que Deus repartiu a cada um.",
+      "verse": 3,
+      "chapter": 12
+    }
+  ],
+  "generated_at": "2025-12-30T04:03:12.822+00:00"
+}

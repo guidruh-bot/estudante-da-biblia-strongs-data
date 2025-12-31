@@ -1,0 +1,29 @@
+{
+  "id": "G1819",
+  "language": "greek",
+  "original_word": "resplendor",
+  "transliteration": "exastraptō",
+  "pronunciation": "eks-as-TRAP-toh",
+  "short_definition": "Raiar, resplandecer intensamente, brilhar como um relâmpago.",
+  "full_definition": "Este verbo composto do grego significa emitir um brilho fulgurante, um relâmpago. É usado para descrever uma luz extraordinariamente brilhante e repentina, muitas vezes associada a uma manifestação divina ou celestial. Implica uma luminosidade que é ofuscante e poderosa.",
+  "etymology": "Composto de 'ek' (G1537), que significa 'fora de', e 'astraptō' (G797, usado no sentido figurado para raiar ou brilhar como um relâmpago), 'exastraptō' denota um brilho que irrompe ou sai com grande intensidade.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ato 9:3",
+  "cross_references": [
+    {
+      "book": "lc",
+      "text": "Enquanto ele orava, a aparência do seu rosto se transformou, e as suas vestes tornaram-se brancas e **resplandecentes** (ἐξαστράπτων).",
+      "verse": 29,
+      "chapter": 9
+    },
+    {
+      "book": "at",
+      "text": "Enquanto ele viajava e se aproximava de Damasco, de repente uma luz do céu **resplandeceu** (περιήστραψεν, uma forma de 'peristráptō' que incorpora o brilho ofuscante implícito em 'astraptō') ao seu redor.",
+      "verse": 3,
+      "chapter": 9
+    }
+  ],
+  "generated_at": "2025-12-30T15:49:30.355+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "G2409",
+  "language": "greek",
+  "original_word": "sacerdote",
+  "transliteration": "hiereus",
+  "pronunciation": "hee-er-yooce",
+  "short_definition": "Um sacerdote, alguém que oferece sacrifícios e adora a Deus.",
+  "full_definition": "Refere-se a uma pessoa que, por ofício, é responsável por rituais sagrados, especialmente a oferta de sacrifícios a uma divindade. No contexto judaico e cristão primitivo, designava aqueles que ministravam no Templo ou no sacerdócio levítico, ou, em um sentido mais amplo, o sacerdócio universal de todos os crentes. Em Atos 9:1, embora o texto em português mencione 'sacerdotes', a palavra grega 'ἀρχιερεῖς' (archiereis, G749, sumo-sacerdotes) é usada, referindo-se aos líderes religiosos judaicos que conferiam autoridade a Saulo.",
+  "etymology": "Derivado de 'ἱερός' (hieros, G2413), que significa 'sagrado' ou 'santo'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ato 9:1",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "E disse-lhe Jesus: Olha, não o digas a ninguém, mas vai, mostra-te ao sacerdote, e apresenta a oferta que Moisés determinou, para lhes servir de testemunho.",
+      "verse": 4,
+      "chapter": 8
+    },
+    {
+      "book": "lc",
+      "text": "E, ocasionalmente, descia um sacerdote por aquele caminho e, vendo-o, passou de largo.",
+      "verse": 31,
+      "chapter": 10
+    },
+    {
+      "book": "hb",
+      "text": "Visto que temos um grande sumo sacerdote, Jesus, Filho de Deus, que penetrou nos céus, retenhamos firmemente a nossa confissão.",
+      "verse": 14,
+      "chapter": 4
+    },
+    {
+      "book": "ap",
+      "text": "E nos fez reis e sacerdotes para Deus e seu Pai; a ele glória e poder para todo o sempre. Amém.",
+      "verse": 6,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2025-12-30T15:48:59.68+00:00"
+}
