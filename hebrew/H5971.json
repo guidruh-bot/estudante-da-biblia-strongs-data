@@ -1,0 +1,41 @@
+{
+  "id": "H5971",
+  "language": "hebrew",
+  "original_word": "povo",
+  "transliteration": "'am",
+  "pronunciation": "am",
+  "short_definition": "Um povo, nação, grupo de pessoas",
+  "full_definition": "Refere-se a um povo, nação, tribo ou grupos de pessoas, frequentemente em relação a Deus ou como uma comunidade distinta. Pode denotar um grupo de indivíduos unidos por descendência, cultura, território ou um propósito comum. Em muitos contextos, 'am' é usado para se referir ao povo de Israel como a nação escolhida de Deus.",
+  "etymology": "Provém de uma raiz não utilizada que significa 'associar'. Denota um grupo de pessoas unidas por algum laço.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "nm 14:19",
+  "cross_references": [
+    {
+      "book": "nm",
+      "text": "Perdoa, pois, a iniqüidade deste povo, segundo a grandeza da tua misericórdia; e como também perdoaste a este povo desde a terra do Egito até aqui.",
+      "verse": 19,
+      "chapter": 14
+    },
+    {
+      "book": "ex",
+      "text": "E disse o Senhor: Tenho visto atentamente a aflição do meu povo, que está no Egito, e tenho ouvido o seu clamor por causa dos seus exatores, porque conheci as suas dores.",
+      "verse": 7,
+      "chapter": 3
+    },
+    {
+      "book": "dt",
+      "text": "E o Senhor hoje te declarou que tu lhe serás o seu **povo** peculiar, como te tem falado, e que guardarás todos os seus mandamentos.",
+      "verse": 18,
+      "chapter": 26
+    },
+    {
+      "book": "is",
+      "text": "O boi conhece o seu possuidor, e o jumento a manjedoura do seu dono; mas Israel não tem conhecimento, o meu **povo** não entende.",
+      "verse": 3,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2026-01-02T14:58:21.062+00:00"
+}

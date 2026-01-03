@@ -1,0 +1,41 @@
+{
+  "id": "H5090",
+  "language": "hebrew",
+  "original_word": "levou",
+  "transliteration": "nāhaḡ",
+  "pronunciation": "naw-hag'",
+  "short_definition": "Conduzir, guiar, levar, impulsionar.",
+  "full_definition": "Este verbo hebraico significa primariamente 'conduzir', 'guiar' ou 'dirigir', frequentemente aplicado à condução de animais ou pessoas. Pode também significar 'impulsionar', 'levar embora' ou 'tirar'. No Qal, a voz simples, a ação é direta. No Piel, pode implicar uma condução mais energéticas ou vigorosa.",
+  "etymology": "A origem é incerta, mas sugere uma ideia de mover ou impulsionar para frente, muitas vezes com força ou direção. É encontrado em outras línguas semíticas com o sentido de guiar ou conduzir.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 3:1",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "E apascentava Moisés o rebanho de Jetro, seu sogro, sacerdote em Midiã; e levou o rebanho atrás do deserto, e chegou ao monte de Deus, a Horebe.",
+      "verse": 1,
+      "chapter": 3
+    },
+    {
+      "book": "is",
+      "text": "E o lobo habitará com o cordeiro, e o leopardo se deitará com o cabrito; e o bezerro, e o leão novo, e o animal cevado andarão juntos, e um menino pequeno os 'guiará'.",
+      "verse": 6,
+      "chapter": 11
+    },
+    {
+      "book": "sl",
+      "text": "Mas fez sair o seu povo como ovelhas, e os 'guiou' pelo deserto como um rebanho.",
+      "verse": 52,
+      "chapter": 78
+    },
+    {
+      "book": "2sm",
+      "text": "E puseram a arca de Deus num carro novo, e a 'levaram' da casa de Abinadabe, que estava em Gibeá; e Uzá e Aiô, filhos de Abinadabe, guiavam o carro novo.",
+      "verse": 3,
+      "chapter": 6
+    }
+  ],
+  "generated_at": "2026-01-02T18:02:19.68+00:00"
+}

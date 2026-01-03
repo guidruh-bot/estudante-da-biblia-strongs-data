@@ -1,0 +1,47 @@
+{
+  "id": "H8435",
+  "language": "hebrew",
+  "original_word": "gerações",
+  "transliteration": "Tôlᵉḏōṯ",
+  "pronunciation": "tol-deh-DOT",
+  "short_definition": "Linha de descendência ou história familiar/geracional",
+  "full_definition": "Este termo hebraico refere-se a 'gerações', 'histórias', 'descendentes', 'origens' ou 'relatos'. É frequentemente usado no Pentateuco para introduzir seções genealógicas ou narrativas que descrevem a origem ou a história de uma família, um povo ou até mesmo do cosmos (Gênesis 2:4). A palavra denota o desenvolvimento progressivo e a descendência a partir de um ancestral comum, com foco tanto nas pessoas quanto nos eventos associados a essa linha genealógica.",
+  "etymology": "Derivado do verbo hebraico יָלַד (yālad, H3205), que significa 'gerar', 'parir', 'dar à luz'. Portanto, denota aquilo que é 'gerado' ou 'o que resulta de'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 10:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Estas são as origens dos céus e da terra, quando foram criados; no dia em que o Senhor Deus fez a terra e os céus,",
+      "verse": 4,
+      "chapter": 2
+    },
+    {
+      "book": "gn",
+      "text": "Este é o livro das <b>gerações</b> de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez.",
+      "verse": 1,
+      "chapter": 5
+    },
+    {
+      "book": "gn",
+      "text": "Estas são as <b>gerações</b> de Noé. Noé era varão justo e perfeito em suas gerações; Noé andava com Deus.",
+      "verse": 9,
+      "chapter": 6
+    },
+    {
+      "book": "gn",
+      "text": "Estas, pois, são as gerações dos filhos de Noé: Sem, Cão e Jafé; e nasceram-lhes filhos depois do dilúvio.",
+      "verse": 1,
+      "chapter": 10
+    },
+    {
+      "book": "gn",
+      "text": "Estas são as <b>gerações</b> de Sem: Tinha Sem cem anos quando gerou a Arfaxade, dois anos depois do dilúvio.",
+      "verse": 10,
+      "chapter": 11
+    }
+  ],
+  "generated_at": "2026-01-02T14:23:11.55+00:00"
+}

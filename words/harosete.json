@@ -1,0 +1,35 @@
+{
+  "id": "H2747",
+  "language": "hebrew",
+  "original_word": "harosete",
+  "transliteration": "Charosheth",
+  "pronunciation": "kha-ro-sheth",
+  "short_definition": "Um centro industrial ou fortaleza",
+  "full_definition": "Charosheth é o nome de um lugar, especificamente 'Charosheth-Hagoyim' (חֲרֹשֶׁת הַגּוֹיִם), que significa 'Charosheth dos Gentios' ou 'Charosheth das Nações'. Esta designação sugere um local com uma população mista ou uma importância estratégica que o associava a povos não-israelitas. É identificado como o centro de operações de Sísera.",
+  "etymology": "Do hebraico חָרַשׁ (charash), que significa 'cortar', 'lavrar', 'trabalhar (em metal ou madeira)', 'ser um artesão' ou 'ser silencioso'. A forma substantiva pode se referir a um trabalho em metal/madeira, daí uma oficina, ou um lugar de trabalho intensivo. Assim, 'Charosheth' pode significar 'a oficina' ou 'o lugar de trabalho (dos gentios/nações)'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "jz 4:2",
+  "cross_references": [
+    {
+      "book": "jz",
+      "text": "E vendeu-os o Senhor na mão de Jabim, rei de Canaã, que reinava em Hazor; e Sísera era o capitão do seu exército, o qual então habitava em Harosete dos gentios.",
+      "verse": 2,
+      "chapter": 4
+    },
+    {
+      "book": "jz",
+      "text": "E Sísera convocou todos os seus carros, novecentos carros de ferro, e todo o povo que estava com ele, desde Harosete dos gentios até ao ribeiro de Quisom.",
+      "verse": 13,
+      "chapter": 4
+    },
+    {
+      "book": "jz",
+      "text": "E Baraque perseguiu os carros, e o exército, até Harosete dos gentios; e todo o exército de Sísera caiu ao fio da espada, até não ficar um só.",
+      "verse": 16,
+      "chapter": 4
+    }
+  ],
+  "generated_at": "2026-01-02T19:05:16.422+00:00"
+}

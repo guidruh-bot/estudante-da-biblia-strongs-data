@@ -1,0 +1,47 @@
+{
+  "id": "H1471",
+  "language": "hebrew",
+  "original_word": "nações",
+  "transliteration": "gôy",
+  "pronunciation": "goy",
+  "short_definition": "Um povo, nação, gentios",
+  "full_definition": "Refere-se geralmente a um grupo de pessoas, uma nação, um povo, uma tribo. Pode denotar um povo em uma relação étnica, política ou geográfica. No plural (גּוֹיִם - goyim), frequentemente se refere às nações não-israelitas, aos gentios.",
+  "etymology": "Do radical não utilizado que significa 'reunir' ou 'amassar', daí 'uma massa de homens', 'uma nação'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "gn 10:5",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Por estes foram repartidas as ilhas dos gentios nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, entre as suas nações.",
+      "verse": 5,
+      "chapter": 10
+    },
+    {
+      "book": "gn",
+      "text": "E farei de ti uma grande nação, e abençoar-te-ei, e engrandecerei o teu nome; e tu serás uma bênção.",
+      "verse": 2,
+      "chapter": 12
+    },
+    {
+      "book": "gn",
+      "text": "E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra.",
+      "verse": 3,
+      "chapter": 12
+    },
+    {
+      "book": "is",
+      "text": "E ele julgará entre as nações, e repreenderá a muitos povos; e converterão as suas espadas em enxadões e as suas lanças em foices; uma nação não levantará a espada contra outra nação, nem aprenderão mais a guerra.",
+      "verse": 4,
+      "chapter": 2
+    },
+    {
+      "book": "sl",
+      "text": "Bem-aventurada é a nação cujo Deus é o Senhor, e o povo que ele escolheu para sua herança.",
+      "verse": 12,
+      "chapter": 33
+    }
+  ],
+  "generated_at": "2026-01-02T14:25:32.249+00:00"
+}
