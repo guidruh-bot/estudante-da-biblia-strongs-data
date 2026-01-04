@@ -1,0 +1,41 @@
+{
+  "id": "H376",
+  "language": "hebrew",
+  "original_word": "cada",
+  "transliteration": "ish",
+  "pronunciation": "eesh",
+  "short_definition": "Homem, indivíduo, cada um",
+  "full_definition": "Refere-se a um homem, um indivíduo do sexo masculino, ou, de forma mais geral, a uma pessoa. Pode ser usado distributivamente para significar 'cada um', 'cada homem'. Quando em construções como 'אִישׁ ... וְאִישׁ' (ish... v'ish), significa 'cada um... e cada um'.",
+  "etymology": "Possivelmente derivado de uma raiz não utilizada que significa 'ser forte', 'ser viril'. Também pode estar relacionado a H582 (אֱנוֹשׁ, enosh) que significa 'humanidade', mas 'ish' foca mais no indivíduo.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 1:1",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Estes pois são os nomes dos filhos de Israel, que entraram no Egito com Jacó; cada um entrou com sua casa:",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "Portanto deixará o homem o seu pai e a sua mãe, e apegar-se-á à sua mulher, e serão ambos uma carne.",
+      "verse": 24,
+      "chapter": 2
+    },
+    {
+      "book": "sl",
+      "text": "Bem-aventurado o homem [אִישׁ] que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "is",
+      "text": "Era desprezado e o mais rejeitado entre os homens [אִישׁ], homem [אִישׁ] de dores e experimentado nos sofrimentos; e, como um de quem os homens escondem o rosto, era desprezado, e dele não fizemos caso.",
+      "verse": 3,
+      "chapter": 53
+    }
+  ],
+  "generated_at": "2026-01-03T16:47:31.068+00:00"
+}

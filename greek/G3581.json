@@ -1,0 +1,35 @@
+{
+  "id": "G3581",
+  "language": "greek",
+  "original_word": "estranhos",
+  "transliteration": "xenos",
+  "pronunciation": "PSEH-nos",
+  "short_definition": "Estrangeiro, hóspede, desconhecido, novo",
+  "full_definition": "Este termo pode significar um estrangeiro, alguém de outro país; um hóspede, aquele que recebe hospitalidade ou um anfitrião; ou simplesmente alguém desconhecido, um estranho. Também pode ser usado para descrever algo novo ou incomum. No contexto de 3 João 1:5, refere-se a irmãos na fé que são desconhecidos pessoalmente do anfitrião, ou seja, 'estranhos' no sentido de viajantes que não fazem parte da comunidade local e precisam de acolhimento.",
+  "etymology": "De uma raiz não identificada, possivelmente relacionada a 'fora'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "3jo 1:5",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "Porque tive fome, e destes-me de comer; tive sede, e destes-me de beber; era estrangeiro (G3581), e recolhestes-me;",
+      "verse": 35,
+      "chapter": 25
+    },
+    {
+      "book": "rm",
+      "text": "Gaio, meu hospedeiro (G3581) e de toda a igreja, vos saúda. Erasto, tesoureiro da cidade, vos saúda, e o irmão Quarto.",
+      "verse": 23,
+      "chapter": 16
+    },
+    {
+      "book": "hb",
+      "text": "Não vos esqueçais da hospitalidade, porque por ela alguns, sem o saber, hospedaram anjos (G3581).",
+      "verse": 2,
+      "chapter": 13
+    }
+  ],
+  "generated_at": "2026-01-04T02:00:26.404+00:00"
+}

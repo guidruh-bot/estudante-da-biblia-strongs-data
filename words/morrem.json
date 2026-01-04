@@ -1,0 +1,41 @@
+{
+  "id": "H4191",
+  "language": "hebrew",
+  "original_word": "morrem",
+  "transliteration": "māṯû",
+  "pronunciation": "maw-too",
+  "short_definition": "Um plural de 'morrer', falecer",
+  "full_definition": "A forma verbal 'māṯû' (מָתוּ) é a 3ª pessoa do plural, pretérito perfeito, do verbo hebraico מות (mûṯ), que significa 'morrer', 'estar morto', 'ser morto'. Indica um estado ou ação consumada de cessação da vida, seja por causas naturais, violência ou juízo divino. Pode ser usado em sentido literal (morte física) ou figurado (morte espiritual/nacional).",
+  "etymology": "Do radical primitivo מות (mûṯ), que significa 'morrer'. É uma palavra de raiz comum em muitas línguas semitas, indicando o fim da vida.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "lm 4:9",
+  "cross_references": [
+    {
+      "book": "lm",
+      "text": "Os mortos à espada foram mais ditosos do que os mortos à fome; porque estes morreram lentamente, por falta dos frutos dos campos.",
+      "verse": 9,
+      "chapter": 4
+    },
+    {
+      "book": "gn",
+      "text": "E foram todos os dias que Adão viveu novecentos e trinta anos, e morreu.",
+      "verse": 5,
+      "chapter": 5
+    },
+    {
+      "book": "ex",
+      "text": "E Faraó levantou-se de noite, ele e todos os seus servos e todos os egípcios; e havia grande clamor no Egito, porque não havia casa em que não houvesse um morto.",
+      "verse": 30,
+      "chapter": 12
+    },
+    {
+      "book": "nu",
+      "text": "Porque o Senhor dissera deles: Certamente morrerão no deserto. E nenhum deles ficou, senão Calebe, filho de Jefoné, e Josué, filho de Num.",
+      "verse": 65,
+      "chapter": 26
+    }
+  ],
+  "generated_at": "2026-01-04T00:06:09.312+00:00"
+}
