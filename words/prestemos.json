@@ -1,0 +1,41 @@
+{
+  "id": "G4337",
+  "language": "greek",
+  "original_word": "prestemos",
+  "transliteration": "prosechō",
+  "pronunciation": "pros-EKH-o",
+  "short_definition": "Estar atento, dar atenção, cuidar, apegar-se a",
+  "full_definition": "Do grego 'pros' (em direção a) e 'echō' (ter, manter). Significa direcionar o pensamento de alguém ou fixar a mente em algo; estar vigilante, dar atenção a, cuidar, observar, ser cauteloso, estar atento. No contexto de Hebreus 2:1, implica em dar mais diligente atenção à Palavra de Deus para não se afastar dela.",
+  "etymology": "Composto de G4314 (πρός, 'pros'), que indica movimento em direção a ou proximidade, e G2192 (ἔχω, 'echō'), que significa 'ter' ou 'segurar'. Literalmente, 'ter em direção a', daí 'aplicar a mente a'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "hb 2:1",
+  "cross_references": [
+    {
+      "book": "hb",
+      "text": "Portanto, é necessário que com mais diligência <b>prestemos</b> atenção às coisas que ouvimos, para que em tempo algum nos desviemos delas.",
+      "verse": 1,
+      "chapter": 2
+    },
+    {
+      "book": "1tm",
+      "text": "Mas o Espírito expressamente diz que, nos últimos tempos, alguns apostatarão da fé, <b>dando ouvidos</b> a espíritos enganadores e a doutrinas de demônios;",
+      "verse": 1,
+      "chapter": 4
+    },
+    {
+      "book": "at",
+      "text": "E as multidões unanimemente <b>davam atenção</b> ao que Filipe dizia, porque ouviam e viam os sinais que ele fazia.",
+      "verse": 6,
+      "chapter": 8
+    },
+    {
+      "book": "mt",
+      "text": "<b>Guardai-vos</b> de fazer vossas obras de piedade diante dos homens, para serdes vistos por eles; doutra sorte, não tereis o galardão junto de vosso Pai, que está nos céus.",
+      "verse": 1,
+      "chapter": 6
+    }
+  ],
+  "generated_at": "2026-01-05T22:58:56.176+00:00"
+}

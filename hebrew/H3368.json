@@ -1,0 +1,47 @@
+{
+  "id": "H3368",
+  "language": "hebrew",
+  "original_word": "preciosa",
+  "transliteration": "yāqār",
+  "pronunciation": "yaw-kawr'",
+  "short_definition": "Valioso, caro, honorável, raro",
+  "full_definition": "Este adjetivo hebraico descreve algo ou alguém de grande valor, seja intrínseco, monetário ou moral. Pode se referir a preciosidade de coisas (gemas, ouro), à honra de pessoas (príncipes, sábios) ou à raridade e importância de eventos ou palavras proféticas. No contexto de Salmos 116:15, refere-se à vida dos santos como algo de grande valor para Deus.",
+  "etymology": "Derivado de uma raiz que significa 'ser pesado (no valor), ser custoso, ser raro'. Implica algo de grande peso e significado.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "sl 116:15",
+  "cross_references": [
+    {
+      "book": "sl",
+      "text": "Preciosa é à vista do Senhor a morte dos seus santos.",
+      "verse": 15,
+      "chapter": 116
+    },
+    {
+      "book": "pv",
+      "text": "Quem retém suas palavras tem conhecimento, e aquele que possui um espírito calmo é um homem de entendimento precioso.",
+      "verse": 27,
+      "chapter": 17
+    },
+    {
+      "book": "is",
+      "text": "Farei que os homens sejam mais preciosos do que o ouro fino, e mais do que o ouro de Ofir.",
+      "verse": 12,
+      "chapter": 13
+    },
+    {
+      "book": "jr",
+      "text": "Então, assim disse o Senhor: Se tu voltares, então eu te trarei de volta, e estarás diante de mim; e se tirares o precioso do vil, serás como a minha boca; eles voltarão para ti, mas tu não voltarás para eles.",
+      "verse": 19,
+      "chapter": 15
+    },
+    {
+      "book": "1rs",
+      "text": "E o rei fez que em Jerusalém houvesse prata como pedras, e cedros em abundância como os sicômoros que há nas campinas, e objetos preciosos.",
+      "verse": 27,
+      "chapter": 10
+    }
+  ],
+  "generated_at": "2026-01-05T14:33:02.453+00:00"
+}
