@@ -1,0 +1,41 @@
+{
+  "id": "H3318",
+  "language": "hebrew",
+  "original_word": "descendentes",
+  "transliteration": "yatsa'",
+  "pronunciation": "yaw-tsaw'",
+  "short_definition": "Sair, proceder de, vir à existência",
+  "full_definition": "Este verbo hebraico significa 'sair', 'avançar', 'proceder', 'ir embora'. No contexto de Êxodo 1:5 (e em muitos outros textos), é usado para denotar a ideia de 'descender' ou 'originar-se de' alguém, ou 'vir à existência' a partir de algo/alguém. Expressa a ideia de algo ou alguém vindo para fora de um lugar ou de uma pessoa, geralmente com o sentido de origem ou procriação.",
+  "etymology": "Raiz primária que significa 'sair' ou 'ir adiante'. A nuance de 'descendentes' ou 'proceder de' é um uso idiomático comum para indicar origem ou filiação.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 1:5",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Então veio a palavra do Senhor a ele, dizendo: Não, este não será o teu herdeiro, mas aquele que de tuas entranhas sair, esse será o teu herdeiro.",
+      "verse": 4,
+      "chapter": 15
+    },
+    {
+      "book": "gn",
+      "text": "Disse-lhe mais Deus: Eu sou o Deus Todo-Poderoso; sê frutífero e multiplica-te; uma nação, sim, uma multidão de nações, de ti procederá, e reis sairão dos teus lombos.",
+      "verse": 11,
+      "chapter": 35
+    },
+    {
+      "book": "ex",
+      "text": "Todas as almas, pois, que procederam dos lombos de Jacó, foram setenta almas; José, porém, estava no Egito.",
+      "verse": 5,
+      "chapter": 1
+    },
+    {
+      "book": "nm",
+      "text": "Todos os que foram contados foram seiscentos e três mil e quinhentos e cinquenta.",
+      "verse": 46,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2026-01-10T18:22:27.354+00:00"
+}

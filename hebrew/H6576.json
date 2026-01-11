@@ -1,0 +1,35 @@
+{
+  "id": "H6576",
+  "language": "hebrew",
+  "original_word": "fortalecidos",
+  "transliteration": "Parah",
+  "pronunciation": "paw-raw'",
+  "short_definition": "Ser frutífero, multiplicar, ser produtivo",
+  "full_definition": "Este verbo hebraico significa tornar-se frutífero, multiplicar-se, proliferar, ou seja, aumentar em número ou em vitalidade. Em Êxodo 1:7, ele descreve o crescimento populacional e a robustez dos israelitas no Egito, indicando não apenas um aumento numérico, mas também um vigor e saúde notáveis, tornando-os fortes.",
+  "etymology": "A raiz 'פָּרָה' (parah) é um termo hebraico fundamental associado à fertilidade e produção. É a mesma raiz de 'periy' (fruto).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 1:7",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E Deus os abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra.",
+      "verse": 28,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "Disse-lhe Deus: 'Eu sou o Deus Todo-Poderoso. Sê **fecundo** e multiplica-te; uma nação e uma multidão de nações virão de ti, e reis sairão dos teus lombos.'",
+      "verse": 11,
+      "chapter": 35
+    },
+    {
+      "book": "ex",
+      "text": "E os filhos de Israel frutificaram, aumentaram muito, e multiplicaram-se, e foram fortalecidos grandemente; de maneira que a terra se encheu deles.",
+      "verse": 7,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2026-01-10T18:49:48.248+00:00"
+}

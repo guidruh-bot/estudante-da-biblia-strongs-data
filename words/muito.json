@@ -1,0 +1,41 @@
+{
+  "id": "H3966",
+  "language": "hebrew",
+  "original_word": "muito",
+  "transliteration": "mə'ōd",
+  "pronunciation": "meh-ODE",
+  "short_definition": "Força, poder, muito, grandemente",
+  "full_definition": "Este termo hebraico (מְאֹד - me'od) pode funcionar como substantivo significando 'força', 'poder', 'capacidade', ou mais frequentemente como advérbio, enfatizando intensidade. Quando usado como advérbio, significa 'muito', 'grandemente', 'extremamente', 'em grande medida'. Expressa a ideia de superabundância ou um alto grau de algo. No Êxodo 1:7, ele é usado repetidamente para enfatizar o crescimento exponencial e a proliferação dos israelitas.",
+  "etymology": "Derivado de uma raiz que significa 'ser forte', 'ter poder'. O substantivo e advérbio compartilham a ideia fundamental de intensidade e força.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 1:7",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto.",
+      "verse": 31,
+      "chapter": 1
+    },
+    {
+      "book": "dt",
+      "text": "Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças.",
+      "verse": 5,
+      "chapter": 6
+    },
+    {
+      "book": "ex",
+      "text": "E os filhos de Israel frutificaram, aumentaram muito, e multiplicaram-se, e foram fortalecidos grandemente; de maneira que a terra se encheu deles.",
+      "verse": 7,
+      "chapter": 1
+    },
+    {
+      "book": "2sm",
+      "text": "O rico tinha rebanhos e gado em **muito** grande número.",
+      "verse": 2,
+      "chapter": 12
+    }
+  ],
+  "generated_at": "2026-01-10T18:48:43.776+00:00"
+}

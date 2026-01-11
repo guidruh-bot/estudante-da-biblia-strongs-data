@@ -1,0 +1,41 @@
+{
+  "id": "H6509",
+  "language": "hebrew",
+  "original_word": "frutificaram",
+  "transliteration": "parah",
+  "pronunciation": "paw-raw'",
+  "short_definition": "Ser frutífero, multiplicar, proliferar",
+  "full_definition": "Este verbo hebraico significa 'ser ou tornar-se frutífero', 'produzir frutos', 'multiplicar-se', 'prosperar'. Pode ser usado tanto em sentido literal (plantas, animais, pessoas) quanto em sentido figurado (prosperidade, abundância). No contexto de Êxodo 1:7, refere-se especificamente ao crescimento e multiplicação da população de Israel.",
+  "etymology": "A raiz 'פָּרָה' (parah) é uma raiz primordial indicando fertilidade ou produção de frutos. É cognato com outras línguas semíticas com o mesmo sentido de frutificação ou abundância.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 1:7",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E Deus os abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra.",
+      "verse": 28,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E te farei <b>frutificar</b> grandissimamente, e de ti farei nações, e reis sairão de ti.",
+      "verse": 6,
+      "chapter": 17
+    },
+    {
+      "book": "ex",
+      "text": "E os filhos de Israel frutificaram, aumentaram muito, e multiplicaram-se, e foram fortalecidos grandemente; de maneira que a terra se encheu deles.",
+      "verse": 7,
+      "chapter": 1
+    },
+    {
+      "book": "lv",
+      "text": "Porque para vós me voltarei, e vos farei <b>frutificar</b>, e vos multiplicarei, e confirmarei a minha aliança convosco.",
+      "verse": 9,
+      "chapter": 26
+    }
+  ],
+  "generated_at": "2026-01-10T18:23:11.532+00:00"
+}

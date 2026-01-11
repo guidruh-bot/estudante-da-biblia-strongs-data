@@ -1,0 +1,41 @@
+{
+  "id": "H6293",
+  "language": "hebrew",
+  "original_word": "aumentaram",
+  "transliteration": "parah",
+  "pronunciation": "paw-raw'",
+  "short_definition": "Ser frutífero, multiplicar, crescer, aumentar",
+  "full_definition": "Este verbo significa ser frutífero, produzir, multiplicar-se ou tornar-se numeroso. É frequentemente usado no contexto de procriação, tanto para humanos quanto para animais, e também para a produção da terra. Implica um crescimento quantitativo e uma abundância que é frequentemente vista como uma bênção divina.",
+  "etymology": "Uma raiz primária, significando 'ser frutífero' (no sentido de procriar); figurativamente 'florescer'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "source_verse": "ex 1:7",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E Deus os abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas nos mares; e as aves se multipliquem na terra.",
+      "verse": 22,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E Deus os abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra.",
+      "verse": 28,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "Disse-lhe mais Deus: Eu sou o Deus Todo-Poderoso; sê frutífero (פָּרָה֙) e multiplica-te; uma nação, sim, uma multidão de nações, de ti virão, e reis sairão dos teus lombos;",
+      "verse": 11,
+      "chapter": 35
+    },
+    {
+      "book": "ex",
+      "text": "E os filhos de Israel frutificaram, aumentaram muito, e multiplicaram-se, e foram fortalecidos grandemente; de maneira que a terra se encheu deles.",
+      "verse": 7,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2026-01-10T18:44:48.899+00:00"
+}
