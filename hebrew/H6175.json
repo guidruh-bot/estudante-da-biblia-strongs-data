@@ -1,0 +1,42 @@
+{
+  "id": "H6175",
+  "language": "hebrew",
+  "original_word": "astuto",
+  "transliteration": "ʿārûm",
+  "pronunciation": "aw-room'",
+  "short_definition": "Hábil, astuto, prudente",
+  "full_definition": "A palavra hebraica ʿārûm descreve uma qualidade de perspicácia ou sagacidade. Pode ter uma conotação negativa de 'astuto' ou 'ardiloso', como em Gênesis 3:1, ou uma conotação positiva de 'prudente' e 'discreto', como em Provérbios 12:16, 23, 13:16, 14:8. A nuance de 'inteligente' está sempre presente, mas o julgamento moral da palavra é derivado do contexto.",
+  "etymology": "Derivado da raiz hebraica ערום (aram), que significa 'ser nu', 'ser astuto' ou 'ser esperto'. A conexão etimológica sugere uma 'capacidade de ver através das coisas', de perceber o que está escondido ou de agir sem impedimentos, o que pode ser usado tanto para o bem quanto para o mal.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 3:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Ora, a serpente era mais astuta que todas as alimárias do campo que o SENHOR Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim?",
+      "verse": 1,
+      "chapter": 3
+    },
+    {
+      "book": "pv",
+      "text": "A ira do louco logo se conhece, mas o *prudente* (עָרוּם) cobre a afronta.",
+      "verse": 16,
+      "chapter": 12
+    },
+    {
+      "book": "pv",
+      "text": "A sabedoria do *prudente* (עָרוּם) é entender o seu caminho, mas a estultícia dos loucos é engano.",
+      "verse": 8,
+      "chapter": 14
+    },
+    {
+      "book": "jó",
+      "text": "frustra os planos dos *astutos* (עָרוּם), para que as suas mãos não executem o seu intento.",
+      "verse": 12,
+      "chapter": 5
+    }
+  ],
+  "generated_at": "2026-01-13T00:51:12.019+00:00"
+}

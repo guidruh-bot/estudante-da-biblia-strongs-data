@@ -1,0 +1,42 @@
+{
+  "id": "H853",
+  "language": "hebrew",
+  "original_word": "אֶת",
+  "transliteration": "ʾet",
+  "pronunciation": "et",
+  "short_definition": "Marcador de objeto direto; com",
+  "full_definition": "Esta partícula hebraica não possui um equivalente direto em português na maioria das vezes, pois serve primariamente para indicar que a palavra que a segue é o objeto direto de um verbo transitivo. Pode também ser usada para indicar 'com', 'junto com' ou 'o próprio' (ênfase). Em textos arcaicos, pode funcionar como preposição de movimento. É essencial para a sintaxe hebraica, mas muitas vezes não é traduzida, sendo apenas um indicador gramatical.",
+  "etymology": "Sua etimologia exata é debatida, mas é uma das partículas sintáticas mais antigas e fundamentais do hebraico e de outras línguas semíticas.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 4:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "No princípio criou Deus o céu e a terra.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E conheceu Adão a Eva, sua mulher, e ela concebeu e deu à luz a Caim, e disse: Alcancei do SENHOR um homem.",
+      "verse": 1,
+      "chapter": 4
+    },
+    {
+      "book": "ex",
+      "text": "Não terás outros deuses diante de mim [אֵת].",
+      "verse": 3,
+      "chapter": 20
+    },
+    {
+      "book": "dt",
+      "text": "Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças.",
+      "verse": 5,
+      "chapter": 6
+    }
+  ],
+  "generated_at": "2026-01-13T01:37:58.511+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "H3847",
+  "language": "hebrew",
+  "original_word": "וַ/תִּלְבַּ֤שׁ",
+  "transliteration": "lavash",
+  "pronunciation": "lah-vahsh",
+  "short_definition": "Vestir, revestir-se, colocar uma roupa",
+  "full_definition": "O verbo 'lavash' significa primariamente vestir, colocar uma veste, seja uma peça de roupa, um manto, ou até mesmo um emblema. Pode ser usado no sentido literal de cobrir o corpo com um vestuário, mas também metaforicamente para assumir uma característica, um estado, uma emoção ou uma qualidade (ex: vestir-se de força, de vergonha, de arrogância, de justiça). A forma 'וַ/תִּלְבַּ֤שׁ' é o Waw Conjuntivo + Imperfeito (Jussivo) na 3ª pessoa do singular feminino do verbo 'lavash', indicando uma ação sequencial no passado: 'e ela vestiu'.",
+  "etymology": "Raiz hebraica primitiva, comum em várias línguas semíticas, com o significado fundamental de 'cobrir'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "et 5:1",
+  "cross_references": [
+    {
+      "book": "et",
+      "text": "Sucedeu, pois, que ao terceiro dia Ester se vestiu com trajes reais, e se pôs no pátio interior da casa do rei, defronte do aposento do rei; e o rei estava assentado sobre o seu trono real, na casa real, defronte da porta do aposento.",
+      "verse": 1,
+      "chapter": 5
+    },
+    {
+      "book": "sl",
+      "text": "Os teus sacerdotes se vistam de justiça, e os teus santos cantem de alegria.",
+      "verse": 9,
+      "chapter": 132
+    },
+    {
+      "book": "jó",
+      "text": "Vesti-me de justiça, e ela me serviu de vestidura; como manto e turbante, usei a minha retidão.",
+      "verse": 14,
+      "chapter": 29
+    },
+    {
+      "book": "is",
+      "text": "Vestiu-se de justiça como de uma couraça e pôs na cabeça o capacete da salvação; vestiu-se de vestes de vingança e se cobriu de zelo como de um manto.",
+      "verse": 17,
+      "chapter": 59
+    }
+  ],
+  "generated_at": "2026-01-13T01:34:42.272+00:00"
+}

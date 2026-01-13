@@ -1,0 +1,42 @@
+{
+  "id": "H428",
+  "language": "hebrew",
+  "original_word": "וְ/אֵ֗לֶּה",
+  "transliteration": "Elle",
+  "pronunciation": "el-leh'",
+  "short_definition": "Estes, essas, aqueles",
+  "full_definition": "Este pronome demonstrativo plural feminino/masculino se refere a um grupo de pessoas ou objetos que foram mencionados anteriormente ou que estão prestes a ser introduzidos. Em Êxodo 1:1, funciona como uma introdução que aponta para os nomes que se seguirão. Às vezes, pode ser reforçado por uma vogal inicial 'ו' (waw conectivo), como em 'וְאֵ֗לֶּה' (ve'elleh), significando 'E estes'.",
+  "etymology": "Derivado de uma raiz não utilizada que significa 'mostrar'. É a forma plural comum para pronomes demonstrativos singulares como 'zeh' (este) e 'zo't' (esta).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ex 1:1",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Estes pois são os nomes dos filhos de Israel, que entraram no Egito com Jacó; cada um entrou com sua casa:",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "dt",
+      "text": "Estes, pois, são os mandamentos, os estatutos e os juízos que mandou o SENHOR vosso Deus para ensinar-vos, para que os cumprísseis na terra a que passais a possuir;",
+      "verse": 1,
+      "chapter": 6
+    },
+    {
+      "book": "gn",
+      "text": "Estas, pois, são as gerações dos filhos de Noé: Sem, Cão e Jafé; e nasceram-lhes filhos depois do dilúvio.",
+      "verse": 1,
+      "chapter": 10
+    },
+    {
+      "book": "lv",
+      "text": "Estes são os estatutos, os juízos e as leis que o Senhor deu entre ele e os filhos de Israel, no monte Sinai, pela mão de Moisés.",
+      "verse": 46,
+      "chapter": 26
+    }
+  ],
+  "generated_at": "2026-01-13T02:43:24.478+00:00"
+}
