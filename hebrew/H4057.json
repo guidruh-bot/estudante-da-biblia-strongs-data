@@ -1,0 +1,42 @@
+{
+  "id": "H4057",
+  "language": "hebrew",
+  "original_word": "בְ/מִדְבַּר",
+  "transliteration": "Midbar",
+  "pronunciation": "mid-bawr'",
+  "short_definition": "Deserto, estepe selvagem",
+  "full_definition": "A palavra 'midbar' descreve uma região árida ou semiárida, geralmente apta para pastoreio, mas imprópria para agricultura e sem cidades permanentes. Pode se referir a áreas rochosas, de areia, ou planaltos secos. Não necessariamente um 'deserto de areia' no sentido moderno (como o Saara), mas uma área selvagem e despovoada, frequentemente usada para pastoreio ou refúgio.",
+  "etymology": "Derivado do verbo hebraico 'dabar' (דָּבַר), que significa 'cuidar do gado', 'pastorear', e também 'falar'. A conexão etimológica sugere um lugar onde o gado é levado a pastar, ou onde se pode 'falar' (associado à solidão e encontro com o divino, ou onde o gado 'fala' através do pastoreio).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "nm 9:1",
+  "cross_references": [
+    {
+      "book": "nm",
+      "text": "E falou o SENHOR a Moisés no deserto de Sinai, no ano segundo da sua saída da terra do Egito, no primeiro mês, dizendo:",
+      "verse": 1,
+      "chapter": 9
+    },
+    {
+      "book": "ex",
+      "text": "Mas Deus fez o povo rodear pelo caminho do deserto do Mar Vermelho; e armados, os filhos de Israel subiram da terra do Egito.",
+      "verse": 18,
+      "chapter": 13
+    },
+    {
+      "book": "dt",
+      "text": "Pois o SENHOR teu Deus te tem abençoado em toda a obra das tuas mãos; ele conhece o teu caminho por este grande deserto; estes quarenta anos o SENHOR teu Deus esteve contigo; coisa nenhuma te faltou.",
+      "verse": 7,
+      "chapter": 2
+    },
+    {
+      "book": "sl",
+      "text": "Fendeu as rochas no deserto; e deu-lhes de beber como de grandes abismos.",
+      "verse": 15,
+      "chapter": 78
+    }
+  ],
+  "generated_at": "2026-01-14T16:59:33.512+00:00"
+}

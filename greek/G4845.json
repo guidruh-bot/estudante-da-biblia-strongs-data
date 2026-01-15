@@ -1,0 +1,36 @@
+{
+  "id": "G4845",
+  "language": "greek",
+  "original_word": "cumprindo-se",
+  "transliteration": "symplēroō",
+  "pronunciation": "soom-play-RO-o",
+  "short_definition": "Completar, cumprir, encher completamente",
+  "full_definition": "Este verbo significa 'completar totalmente', 'encher completamente' ou 'chegar ao fim'. No contexto de um período de tempo, como em Atos 2:1 ou Lucas 9:51, refere-se ao cumprimento ou à chegada do tempo designado. Pode também significar 'encher junto', implicando que algo é preenchido em todas as suas partes ou até sua capacidade máxima.",
+  "etymology": "Derivado de G4862 (σύν - syn, 'junto com') e G4137 (πληρόω - plēroō, 'preencher', 'completar'). A combinação sugere a ideia de preencher ou completar de forma integral ou conjunta.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ato 2:1",
+  "cross_references": [
+    {
+      "book": "lc",
+      "text": "E, navegando eles, adormeceu; e sobreveio uma tempestade de vento no lago, e o navio ia-se enchendo [συμπληροῦντο] de água, e corriam perigo.",
+      "verse": 23,
+      "chapter": 8
+    },
+    {
+      "book": "lc",
+      "text": "E aconteceu que, cumprindo-se [συμπληροῦσθαι] os dias em que devia de ser recebido para cima, manifestou o firme propósito de ir a Jerusalém.",
+      "verse": 51,
+      "chapter": 9
+    },
+    {
+      "book": "at",
+      "text": "CUMPRINDO-SE [συμπληροῦσθαι] o dia de Pentecostes, estavam todos reunidos num mesmo lugar.",
+      "verse": 1,
+      "chapter": 2
+    }
+  ],
+  "generated_at": "2026-01-14T23:09:35.441+00:00"
+}

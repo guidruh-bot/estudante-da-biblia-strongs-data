@@ -1,0 +1,48 @@
+{
+  "id": "H2696",
+  "language": "hebrew",
+  "original_word": "חֶצְר֛וֹן",
+  "transliteration": "Ḥeṣrôn",
+  "pronunciation": "khets-rone",
+  "short_definition": "Um dos filhos de Rúben e descendente de Judá",
+  "full_definition": "Hezrom (também grafado Herom) é o nome de dois personagens bíblicos importantes. O primeiro é filho de Rúben, primogênito de Jacó (Gênesis 46:9). O segundo é filho de Perez, e neto de Judá (Gênesis 46:12). Ele é um ancestral chave na linhagem de Davi e, subsequentemente, de Jesus Cristo. Seu nome também pode ser associado a um lugar no Neguebe (Josué 15:3, 25).",
+  "etymology": "Do hebraico חָצֵר (ḥātser), que significa 'cercado', 'pátio' ou 'aldeia'. O nome 'Hezrom' sugere uma conotação de 'cercado' ou 'recinto', possivelmente indicando um estabelecimento ou um lugar habitado.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "1cr 4:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E os filhos de Rúben: Enoque, Palu, Hezrom e Carmi.",
+      "verse": 9,
+      "chapter": 46
+    },
+    {
+      "book": "gn",
+      "text": "E os filhos de Perez: Hezrom e Hamul.",
+      "verse": 12,
+      "chapter": 46
+    },
+    {
+      "book": "1cr",
+      "text": "Estes foram os descendentes de Judá: Perez, Hezrom, Carmi, Hur e Sobal.",
+      "verse": 1,
+      "chapter": 4
+    },
+    {
+      "book": "mt",
+      "text": "Judá gerou a Perez e a Zerá de Tamar; Perez gerou a Hezrom; Hezrom gerou a Arão;",
+      "verse": 3,
+      "chapter": 1
+    },
+    {
+      "book": "lc",
+      "text": "filho de Aminadabe, filho de Arni, filho de Hezrom, filho de Perez, filho de Judá,",
+      "verse": 33,
+      "chapter": 3
+    }
+  ],
+  "generated_at": "2026-01-14T18:49:25.565+00:00"
+}

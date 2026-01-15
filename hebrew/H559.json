@@ -1,0 +1,42 @@
+{
+  "id": "H559",
+  "language": "hebrew",
+  "original_word": "וַ/יֹּ֨אמֶר",
+  "transliteration": "amar",
+  "pronunciation": "aw-mar'",
+  "short_definition": "Dizer, falar, ordenar, prometer",
+  "full_definition": "O verbo 'amar' é um termo fundamental no hebraico, significando primariamente 'dizer', 'falar', 'proferir' com autoridade ou intenção. Pode expressar um comando, uma promessa, uma declaração, um pensamento interno ou até um canto. Na forma Qal (simples), como visto em Gênesis 3:13 ('וַ/יֹּ֨אמֶר' - 'e disse', um WaW-consecutivo imperfeito que atua como um passado simples), ele se refere a um ato direto de comunicação oral ou mental. Seu uso abrange desde a comunicação divina até a interjeição humana diária.",
+  "etymology": "De uma raiz primária, sugerindo o conceito de 'pronunciar'. É um dos verbos mais comuns no Antigo Testamento hebraico para 'falar' ou 'dizer'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 3:13",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E disse Deus: Haja luz; e houve luz.",
+      "verse": 3,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E disse o Senhor Deus à mulher: Por que fizeste isto? E disse a mulher: A serpente me enganou, e eu comi.",
+      "verse": 13,
+      "chapter": 3
+    },
+    {
+      "book": "gn",
+      "text": "E falou Caim com o seu irmão Abel; e sucedeu que, estando eles no campo, se levantou Caim contra o seu irmão Abel, e o matou.",
+      "verse": 8,
+      "chapter": 4
+    },
+    {
+      "book": "ex",
+      "text": "E disse Deus a Moisés: EU SOU O QUE SOU. Disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.",
+      "verse": 14,
+      "chapter": 3
+    }
+  ],
+  "generated_at": "2026-01-14T14:55:14.002+00:00"
+}

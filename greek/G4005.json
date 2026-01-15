@@ -1,0 +1,36 @@
+{
+  "id": "G4005",
+  "language": "greek",
+  "original_word": "pentecostes",
+  "transliteration": "pentēkostḗ",
+  "pronunciation": "pen-tay-kos-tay",
+  "short_definition": "Referente ao quinquagésimo dia; Festival judaico do Pentecostes",
+  "full_definition": "A palavra 'pentēkostḗ' significa 'quinquagésimo'. No contexto bíblico, refere-se especificamente ao festival judaico celebrado no quinquagésimo dia após a Páscoa. Era uma das três festas de peregrinação anuais (junto com a Páscoa e a Festa dos Tabernáculos), onde todos os homens israelitas deviam ir a Jerusalém. Também conhecida como Festa das Semanas (שָׁבֻעוֹת, Shavuot em hebraico), marcava o fim da colheita da cevada e o início da colheita do trigo. No Novo Testamento, é o dia em que o Espírito Santo desceu sobre os discípulos em Atos 2.",
+  "etymology": "Derivada de 'pentēkonta' (πεντήκοντα), que significa 'cinquenta'. A terminação '-ostḗ' indica a ordem numérica (quinquagésimo).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ato 2:1",
+  "cross_references": [
+    {
+      "book": "at",
+      "text": "Chegando o dia de Pentecostes, estavam todos reunidos num só lugar.",
+      "verse": 1,
+      "chapter": 2
+    },
+    {
+      "book": "at",
+      "text": "Porque Paulo havia resolvido navegar para além de Éfeso, para não gastar tempo na Ásia; ele tinha pressa, se possível, de estar em Jerusalém no dia de Pentecostes.",
+      "verse": 16,
+      "chapter": 20
+    },
+    {
+      "book": "1co",
+      "text": "Mas ficarei em Éfeso até o Pentecostes;",
+      "verse": 8,
+      "chapter": 16
+    }
+  ],
+  "generated_at": "2026-01-14T23:16:00.163+00:00"
+}
