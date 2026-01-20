@@ -1,0 +1,42 @@
+{
+  "id": "H3383",
+  "language": "hebrew",
+  "original_word": "jordão",
+  "transliteration": "Yardēn",
+  "pronunciation": "yar-dane'",
+  "short_definition": "Um rio na Palestina",
+  "full_definition": "O nome do principal rio na Terra Santa. Geralmente se acredita que signifique 'o que desce' ou 'o que flui para baixo', referindo-se à sua característica de descer serpenteando através do vale de Aravá até o Mar Morto, o ponto mais baixo da Terra.",
+  "etymology": "Derivado de uma raiz que significa 'descer', 'cair', provavelmente 'fluir para baixo' ou 'cavar'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "dt 1:1",
+  "cross_references": [
+    {
+      "book": "dt",
+      "text": "Estas são as palavras que Moisés falou a todo o Israel, além do **Jordão**, no deserto, na campina defronte de Suf, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "js",
+      "text": "E, quando os que levavam a arca chegaram ao **Jordão**, e os pés dos sacerdotes que levavam a arca se molharam na beira das águas (porque o **Jordão** transborda sobre todas as suas ribanceiras todos os dias da ceifa),",
+      "verse": 15,
+      "chapter": 3
+    },
+    {
+      "book": "2rs",
+      "text": "Então desceu, e mergulhou no **Jordão** sete vezes, conforme a palavra do homem de Deus; e a sua carne tornou à sua, como a carne de um menino, e ficou purificado.",
+      "verse": 14,
+      "chapter": 5
+    },
+    {
+      "book": "mt",
+      "text": "E eram batizados por ele no rio **Jordão**, confessando os seus pecados.",
+      "verse": 6,
+      "chapter": 3
+    }
+  ],
+  "generated_at": "2026-01-19T16:24:40.199+00:00"
+}

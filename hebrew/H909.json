@@ -1,0 +1,42 @@
+{
+  "id": "H909",
+  "language": "hebrew",
+  "original_word": "sozinho",
+  "transliteration": "bāḏāḏ",
+  "pronunciation": "baw-dawd'",
+  "short_definition": "Separado, sozinho, isolado",
+  "full_definition": "Refere-se ao estado de estar isolado, separado dos outros, solitário. Implica em exclusividade ou em estar à parte. No contexto de Dt 1:9, Moisés usa a expressão para denotar que ele não conseguiria carregar o fardo sozinho.",
+  "etymology": "Derivado de uma raiz que significa 'dividir' ou 'separar'. Indica uma condição de estar isolado ou à parte.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "dt 1:9",
+  "cross_references": [
+    {
+      "book": "dt",
+      "text": "E no mesmo tempo eu vos falei, dizendo: Eu sozinho não poderei levar-vos.",
+      "verse": 9,
+      "chapter": 1
+    },
+    {
+      "book": "is",
+      "text": "Assim diz o Senhor, teu Redentor, e que te formou desde o ventre: Eu sou o Senhor que faço tudo, que estendo os céus SOZINHO, e estendo a terra por mim mesmo.",
+      "verse": 24,
+      "chapter": 44
+    },
+    {
+      "book": "jr",
+      "text": "Levantai-vos, subi contra uma nação tranquila, que habita tão SEGURA, diz o Senhor; que não tem portas nem ferrolhos, e habita SOZINHA.",
+      "verse": 31,
+      "chapter": 49
+    },
+    {
+      "book": "sl",
+      "text": "Em paz também me deitarei e dormirei, porque só tu, Senhor, me fazes habitar em segurança.",
+      "verse": 8,
+      "chapter": 4
+    }
+  ],
+  "generated_at": "2026-01-19T16:26:32.08+00:00"
+}
