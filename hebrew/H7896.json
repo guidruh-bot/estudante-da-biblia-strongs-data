@@ -1,0 +1,36 @@
+{
+  "id": "H7896",
+  "language": "hebrew",
+  "original_word": "אָשִׁ֥ית",
+  "transliteration": "ʾāšîṯ",
+  "pronunciation": "aw-sheeth",
+  "short_definition": "Eu porei, eu estabelecerei",
+  "full_definition": "Este é o verbo hebraico שׁוּת (shuth) ou שִׁית (shith), que significa colocar, pôr, fixar, designar, estabelecer. A forma 'אָשִׁית' é a primeira pessoa do singular do imperfeito (futuro/jussivo), implicando 'eu porei' ou 'eu estabelecerei'. No contexto, indica uma ação soberana e decisiva de Deus.",
+  "etymology": "Do verbo שׁוּת (shuth H7896), com raízes indicando a ideia fundamental de colocar ou fixar algo em um lugar específico. Está relacionado a conceitos de fundar, estabelecer e designar.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "sl 110:1",
+  "cross_references": [
+    {
+      "book": "sl",
+      "text": "Disse o SENHOR ao meu Senhor: Assenta-te à minha mão direita, até que ponha os teus inimigos por escabelo dos teus pés.",
+      "verse": 1,
+      "chapter": 110
+    },
+    {
+      "book": "is",
+      "text": "e **pôs** a minha boca como espada aguda, na sombra da sua mão me escondeu; e me fez uma flecha polida, e me guardou na sua aljava;",
+      "verse": 2,
+      "chapter": 49
+    },
+    {
+      "book": "sl",
+      "text": "Pois o **pões** por bênçãos para sempre; tu o enches de alegria com a tua face.",
+      "verse": 6,
+      "chapter": 21
+    }
+  ],
+  "generated_at": "2026-01-20T12:09:27.205+00:00"
+}
