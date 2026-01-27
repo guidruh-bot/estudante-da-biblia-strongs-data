@@ -1,0 +1,42 @@
+{
+  "id": "H5352",
+  "language": "hebrew",
+  "original_word": "deixa",
+  "transliteration": "Nakhach",
+  "pronunciation": "nakh'-akh",
+  "short_definition": "Deixar ir, enviar",
+  "full_definition": "A raiz verbal 'nakhach' (נֶכַח) em sua forma no Hifil significa 'deixar ir', 'deixar partir', 'expedir', 'mandar embora'. É frequentemente usada no contexto de libertar um cativo, ou no sentido de permitir que alguém vá embora em paz ou para cumprir um propósito. Pode também ter o sentido de permitir que algo aconteça ou de largar algo.",
+  "etymology": "A etimologia sugere um sentido fundamental de 'ser direto', 'estar à vista', 'estar diante de', o que pode se estender ao sentido figurado de 'abrir o caminho', 'liberar', 'deixar ir'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ex 10:3",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Assim foram Moisés e Arão a Faraó, e disseram-lhe: Assim diz o Senhor Deus dos hebreus: Até quando recusarás humilhar-te diante de mim? Deixa ir o meu povo para que me sirva;",
+      "verse": 3,
+      "chapter": 10
+    },
+    {
+      "book": "ex",
+      "text": "E depois foram Moisés e Arão e disseram a Faraó: Assim diz o SENHOR Deus de Israel: Deixa ir o meu povo, para que me celebre uma festa no deserto.",
+      "verse": 1,
+      "chapter": 5
+    },
+    {
+      "book": "ex",
+      "text": "Assim o coração de Faraó se endureceu, e não deixou ir os filhos de Israel, como o Senhor tinha dito por Moisés.",
+      "verse": 35,
+      "chapter": 9
+    },
+    {
+      "book": "ex",
+      "text": "Porque se ainda recusares deixar ir o meu povo, eis que trarei amanhã gafanhotos aos teus termos.",
+      "verse": 4,
+      "chapter": 10
+    }
+  ],
+  "generated_at": "2026-01-26T19:11:24.757+00:00"
+}

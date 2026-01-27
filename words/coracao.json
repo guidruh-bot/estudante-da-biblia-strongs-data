@@ -1,0 +1,48 @@
+{
+  "id": "H3824",
+  "language": "hebrew",
+  "original_word": "coração",
+  "transliteration": "Lêḇāḇ",
+  "pronunciation": "leh-bawb",
+  "short_definition": "Um órgão físico e o centro de vida interior do homem.",
+  "full_definition": "Refere-se ao coração como órgão físico, mas mais frequentemente e mais importantemente, é usado figurativamente para a totalidade do ser interior do homem: sua mente (intelecto, pensamentos), emoções (sentimentos, paixões), vontade (intenções, decisões), e às vezes até a consciência e o caráter moral. É o centro da personalidade e do ser consciente.",
+  "etymology": "Derivado de uma raiz que não aparece no hebraico bíblico, que significa 'ser oco' ou 'o âmago'. A forma 'לֵב' (lev) é mais comum, com 'לֵבָב' (lêḇāḇ) sendo uma forma intensificada ou paralela, indicando plenitude ou ênfase no conceito de coração como centro vital.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ex 10:1",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Depois disse o SENHOR a Moisés: Vai a Faraó, porque tenho endurecido o seu coração, e o coração de seus servos, para fazer estes meus sinais no meio deles,",
+      "verse": 1,
+      "chapter": 10
+    },
+    {
+      "book": "sl",
+      "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+      "verse": 10,
+      "chapter": 51
+    },
+    {
+      "book": "sm",
+      "text": "E Ana, na sua alma, falava; só se moviam os seus lábios, porém não se ouvia a sua voz; pelo que Eli a teve por ébria. ",
+      "verse": 13,
+      "chapter": 1
+    },
+    {
+      "book": "dt",
+      "text": "Então dali buscarás ao Senhor teu Deus, e o acharás, quando o buscares de todo o teu coração e de toda a tua alma.",
+      "verse": 29,
+      "chapter": 4
+    },
+    {
+      "book": "jr",
+      "text": "Porque esta é a aliança que farei com a casa de Israel, depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo.",
+      "verse": 33,
+      "chapter": 31
+    }
+  ],
+  "generated_at": "2026-01-26T19:11:51.21+00:00"
+}
