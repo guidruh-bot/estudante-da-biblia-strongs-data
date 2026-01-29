@@ -1,0 +1,42 @@
+{
+  "id": "H7225",
+  "language": "hebrew",
+  "original_word": "princípio",
+  "transliteration": "rêʼšît",
+  "pronunciation": "ray-sheeth",
+  "short_definition": "Primeira parte, começo, o melhor",
+  "full_definition": "A palavra hebraica 'rêʼšît' refere-se ao início temporal, a prioridade em tempo ou ordem, ou o que é primário e de maior importância; a 'cabeça', o 'começo', a 'primeira parte', 'primeiros frutos' ou 'o melhor'. Implica não apenas um ponto de partida, mas também o produto primário ou a excelência; a primeira e melhor parte de algo. No contexto de Gênesis 1:1, denota o início absoluto do tempo e da criação.",
+  "etymology": "Derivada da raiz hebraica 'רֹאשׁ' (rôʼš), H7218, que significa 'cabeça', 'topo', 'começo', 'principal'. 'Rêʼšît' é a forma feminina que denota 'primeiro', 'o melhor', 'o principal'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 1:1",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "No princípio criou Deus o céu e a terra.",
+      "verse": 1,
+      "chapter": 1
+    },
+    {
+      "book": "pv",
+      "text": "O SENHOR me possuiu no **princípio** de seus caminhos, antes de suas obras mais antigas.",
+      "verse": 22,
+      "chapter": 8
+    },
+    {
+      "book": "jr",
+      "text": "No **princípio** do reinado de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra do SENHOR...",
+      "verse": 1,
+      "chapter": 26
+    },
+    {
+      "book": "am",
+      "text": "Assim me mostrou o Senhor Deus: e eis que ele formava o gafanhoto no **princípio** do rebentar da erva serôdia, e eis que era a erva serôdia depois da ceifa do rei.",
+      "verse": 1,
+      "chapter": 7
+    }
+  ],
+  "generated_at": "2026-01-28T18:53:44.408+00:00"
+}

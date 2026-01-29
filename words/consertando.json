@@ -1,0 +1,42 @@
+{
+  "id": "G2675",
+  "language": "greek",
+  "original_word": "consertando",
+  "transliteration": "katartizō",
+  "pronunciation": "kah-tahr-TEE-zoh",
+  "short_definition": "Equipar, preparar, restaurar, consertar, aperfeiçoar",
+  "full_definition": "Este verbo significa originalmente ajustar, colocar em ordem, restaurar o que está desalinhado, equipar completamente. Pode ser usado para consertar redes de pesca, restaurar fraturas ósseas, ou para descrever o ato de equipar alguém para um propósito, aperfeiçoar, ou harmonizar. A ideia central é trazer algo ou alguém ao seu estado adequado e funcional ou ao seu propósito original.",
+  "etymology": "Derivado de κατά (kata, 'para baixo', 'completamente') e ἀρτίζω (artizō, 'preparar', 'equipar', 'ajustar'), que vem de ἄρτιος (artios, 'completo', 'adequado', 'apropriado'). A etimologia sugere um ajuste completo ou uma preparação minuciosa.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "mt 4:21",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "E, adiantando-se dali, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, num barco com seu pai, Zebedeu, consertando as redes;",
+      "verse": 21,
+      "chapter": 4
+    },
+    {
+      "book": "mc",
+      "text": "E, passando um pouco mais adiante, viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam no barco, consertando as redes,",
+      "verse": 19,
+      "chapter": 1
+    },
+    {
+      "book": "gl",
+      "text": "Irmãos, se algum homem for surpreendido em alguma ofensa, vós, que sois espirituais, restaurai o tal com espírito de mansidão; e olha por ti mesmo, para que também não sejas tentado.",
+      "verse": 1,
+      "chapter": 6
+    },
+    {
+      "book": "hb",
+      "text": "vos aperfeiçoe em toda a boa obra, para fazerdes a sua vontade, operando em vós o que perante ele é mais agradável por Jesus Cristo, ao qual seja glória para todo o sempre. Amém.",
+      "verse": 21,
+      "chapter": 13
+    }
+  ],
+  "generated_at": "2026-01-28T22:28:48.647+00:00"
+}

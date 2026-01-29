@@ -1,0 +1,42 @@
+{
+  "id": "H8414",
+  "language": "hebrew",
+  "original_word": "forma",
+  "transliteration": "Tohu",
+  "pronunciation": "TOH-hoo",
+  "short_definition": "Um deserto, vazio, desolação",
+  "full_definition": "Refere-se a um estado de desolação, vazio, caos, ou uma região desabitada. Literalmente, 'sem forma' ou 'vazio'. Pode descrever tanto uma condição sem vida quanto um deserto físico. Na sua primeira ocorrência, descreve a condição inicial da terra antes da criação ordenada por Deus.",
+  "etymology": "De uma raiz não utilizada que significa 'ser desolado'. Aponta para uma ausência de forma e conteúdo.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 1:2",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
+      "verse": 2,
+      "chapter": 1
+    },
+    {
+      "book": "is",
+      "text": "Porque assim diz o Senhor que criou os céus, o Deus que formou a terra, que a fez e a estabeleceu; ele não a criou para ser um vazio, mas a formou para ser habitada: Eu sou o Senhor, e não há outro.",
+      "verse": 18,
+      "chapter": 45
+    },
+    {
+      "book": "jr",
+      "text": "Olhei para a terra, e eis que era um caos e um vazio; e para os céus, e não havia luz.",
+      "verse": 23,
+      "chapter": 4
+    },
+    {
+      "book": "jó",
+      "text": "Ele estende o norte sobre o vazio e suspende a terra sobre o nada.",
+      "verse": 7,
+      "chapter": 26
+    }
+  ],
+  "generated_at": "2026-01-28T18:58:03.109+00:00"
+}

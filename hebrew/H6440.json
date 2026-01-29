@@ -1,0 +1,42 @@
+{
+  "id": "H6440",
+  "language": "hebrew",
+  "original_word": "diante",
+  "transliteration": "paneh",
+  "pronunciation": "paw-neh",
+  "short_definition": "Face, presença, diante de",
+  "full_definition": "Este termo hebraico, embora plural em forma (faces), é frequentemente utilizado no singular para se referir à face, ou à presença de alguém ou algo. Pode denotar direção, superfície, ou a própria pessoa na sua presença. No contexto de Deus, 'face' ou 'presença' indica a Sua manifestação ou a Sua atenção direta.",
+  "etymology": "Derivado de uma raiz que significa 'virar', 'olhar', implicando a parte da frente que se apresenta.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ex 7:10",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Então Moisés e Arão foram a Faraó, e fizeram assim como o Senhor ordenara; e lançou Arão a sua vara diante de Faraó, e diante dos seus servos, e tornou-se em serpente.",
+      "verse": 10,
+      "chapter": 7
+    },
+    {
+      "book": "gn",
+      "text": "E ouviram a voz do Senhor Deus, que passeava no jardim pela viração do dia; e esconderam-se Adão e sua mulher da presença do Senhor Deus, entre as árvores do jardim.",
+      "verse": 8,
+      "chapter": 3
+    },
+    {
+      "book": "sl",
+      "text": "Tu me farás ver a vereda da vida; na tua **presença** há plenitude de alegria; à tua mão direita há delícias perpetuamente.",
+      "verse": 11,
+      "chapter": 16
+    },
+    {
+      "book": "sl",
+      "text": "E trema a terra **diante** do Senhor, **diante** do Deus de Jacó.",
+      "verse": 7,
+      "chapter": 114
+    }
+  ],
+  "generated_at": "2026-01-28T12:42:27.328+00:00"
+}
