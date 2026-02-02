@@ -1,0 +1,42 @@
+{
+  "id": "H6212",
+  "language": "hebrew",
+  "original_word": "erva",
+  "transliteration": "ʻêśeḇ",
+  "pronunciation": "eh-sev",
+  "short_definition": "Planta verde, vegetação, erva para alimentação.",
+  "full_definition": "Refere-se genericamente a vegetais verdes, plantas, grama ou ervas, especialmente aquelas que produzem sementes e servem como alimento, tanto para humanos quanto para animais. Distingue-se de árvores e arbustos maiores e da vegetação mais rasteira.",
+  "etymology": "De uma raiz não utilizada que significa 'produzir grama'; portanto, 'erva', 'forragem'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 2:5",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que dê fruto segundo a sua espécie, cuja semente está nela sobre a terra; e assim foi.",
+      "verse": 11,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E disse Deus: Eis que vos tenho dado toda a erva que dê semente, que está sobre a face de toda a terra; e toda a árvore, em que há fruto que dê semente, ser-vos-á para mantimento.",
+      "verse": 29,
+      "chapter": 1
+    },
+    {
+      "book": "gn",
+      "text": "E toda a planta do campo que ainda não estava na terra, e toda a erva do campo que ainda não brotava; porque ainda o Senhor Deus não tinha feito chover sobre a terra, e não havia homem para lavrar a terra.",
+      "verse": 5,
+      "chapter": 2
+    },
+    {
+      "book": "sl",
+      "text": "Ele faz crescer a erva (עֵשֶׂב) para o gado e as plantas para o serviço do homem, para que ele tire da terra o alimento,",
+      "verse": 14,
+      "chapter": 104
+    }
+  ],
+  "generated_at": "2026-02-02T03:52:13.72+00:00"
+}
