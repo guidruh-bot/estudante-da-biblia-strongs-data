@@ -1,0 +1,42 @@
+{
+  "id": "G2574",
+  "language": "greek",
+  "original_word": "camelo",
+  "transliteration": "kamelos",
+  "pronunciation": "KAH-may-los",
+  "short_definition": "Um animal de carga, camelo",
+  "full_definition": "Refere-se ao camelo, um animal grande e de pescoço longo, com uma ou duas corcovas, domesticado para uso como animal de carga e monta, especialmente adequado para regiões desérticas. No contexto bíblico, é frequentemente associado à riqueza (Jó 1:3), transporte e dificuldade em contraste com a pobreza ou a entrada no Reino de Deus (Mateus 19: 24",
+  "etymology": "De origem semítica (hebraico גָּמָל - gamal, H1581), passou para o grego e, posteriormente, para o latim (camelus), mantendo o significado fundamental do animal.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "mt 3:4",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "E este João tinha as suas vestes de pelos de camelo, e um cinto de couro em torno de seus lombos; e alimentava-se de gafanhotos e de mel silvestre.",
+      "verse": 4,
+      "chapter": 3
+    },
+    {
+      "book": "mt",
+      "text": "E, outra vez vos digo, que é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no reino de Deus.",
+      "verse": 24,
+      "chapter": 19
+    },
+    {
+      "book": "mc",
+      "text": "É mais fácil um camelo passar pelo fundo de uma agulha do que entrar um rico no Reino de Deus.",
+      "verse": 25,
+      "chapter": 10
+    },
+    {
+      "book": "lc",
+      "text": "Porque é mais fácil um camelo passar pelo fundo de uma agulha do que entrar um rico no Reino de Deus.",
+      "verse": 25,
+      "chapter": 18
+    }
+  ],
+  "generated_at": "2026-02-02T05:15:35.035+00:00"
+}

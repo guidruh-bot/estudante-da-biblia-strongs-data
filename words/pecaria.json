@@ -1,0 +1,48 @@
+{
+  "id": "H2398",
+  "language": "hebrew",
+  "original_word": "pecaria",
+  "transliteration": "chaṭaʾ",
+  "pronunciation": "khaw-taw'",
+  "short_definition": "Errar, errar o alvo, pecar, cometer erro",
+  "full_definition": "Este verbo hebraico significa primariamente 'errar o alvo' (como uma flecha que não acerta), 'estar em falta', 'errar', 'perder o caminho ou o objetivo'. Em um contexto moral e religioso, passa a significar 'pecar', ou seja, falhar em cumprir um padrão moral ou divino, desviando-se da retidão ou da Lei de Deus. Pode implicar em culpa, ofensa ou transgressão.",
+  "etymology": "A raiz etimológica é 'ח־ט־א' (ḥ-ṭ-ʾ), que fundamentalmente carrega a ideia de 'errar o alvo' ou 'perder o caminho'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "gn 39:9",
+  "cross_references": [
+    {
+      "book": "gn",
+      "text": "Ninguém há maior do que eu nesta casa, e nenhuma coisa me vedou, senão a ti, porquanto tu és sua mulher; como pois faria eu tamanha maldade, e pecaria contra Deus?",
+      "verse": 9,
+      "chapter": 39
+    },
+    {
+      "book": "ex",
+      "text": "Assim, tornou Moisés ao SENHOR, e disse: Ah! este povo tem cometido grande pecado, e fizeram para si deuses de ouro.",
+      "verse": 31,
+      "chapter": 32
+    },
+    {
+      "book": "lv",
+      "text": "Fala aos filhos de Israel, dizendo: Quando uma alma pecar por ignorância contra alguns dos mandamentos do SENHOR, acerca do que se não deve fazer, e proceder contra um deles;",
+      "verse": 2,
+      "chapter": 4
+    },
+    {
+      "book": "sl",
+      "text": "Contra ti, contra ti somente, pequei, e fiz o que é mau à tua vista, para que sejas justificado quando falares, e puro quando julgares.",
+      "verse": 4,
+      "chapter": 51
+    },
+    {
+      "book": "pv",
+      "text": "Até a alma sem conhecimento não é boa; e aquele que se apressa com seus pés peca.",
+      "verse": 2,
+      "chapter": 19
+    }
+  ],
+  "generated_at": "2026-02-02T05:02:46.372+00:00"
+}

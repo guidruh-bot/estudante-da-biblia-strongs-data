@@ -1,0 +1,48 @@
+{
+  "id": "G4160",
+  "language": "greek",
+  "original_word": "fazer",
+  "transliteration": "poiéō",
+  "pronunciation": "poy-EH-o",
+  "short_definition": "Fazer, realizar, produzir",
+  "full_definition": "Do grego pô (fazer); executar, fabricar, realizar, praticar, criar, gerar, estabelecer, causar. É um verbo de ação ampla que abrange desde a criação até a prática de atos específicos, podendo significar tanto a produção de algo material quanto a realização de um ato moral ou espiritual.",
+  "etymology": "Possivelmente de uma raiz indo-europeia significando 'fazer, cumprir'. É um verbo fundamental na língua grega com um vasto campo semântico.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 95,
+  "source_verse": "mt 6:1",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tereis galardão junto de vosso Pai, que está nos céus.",
+      "verse": 1,
+      "chapter": 6
+    },
+    {
+      "book": "mt",
+      "text": "Todo aquele, pois, que escuta estas minhas palavras, e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha;",
+      "verse": 24,
+      "chapter": 7
+    },
+    {
+      "book": "lc",
+      "text": "E, tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim.",
+      "verse": 19,
+      "chapter": 22
+    },
+    {
+      "book": "jo",
+      "text": "Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer.",
+      "verse": 5,
+      "chapter": 15
+    },
+    {
+      "book": "ap",
+      "text": "E engana os que habitam na terra com sinais que lhe foi permitido fazer na presença da besta, dizendo aos que habitam na terra que fizessem uma imagem à besta que recebera a ferida da espada e vivia.",
+      "verse": 14,
+      "chapter": 13
+    }
+  ],
+  "generated_at": "2026-02-02T05:14:51.283+00:00"
+}
