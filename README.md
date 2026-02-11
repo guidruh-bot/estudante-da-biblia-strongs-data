@@ -8,15 +8,7 @@ Este repositório contém análises geradas por IA para palavras bíblicas com n
 - `hebrew/` - Arquivos por número Strong hebraico (H0001-H8674)
 - `greek/` - Arquivos por número Strong grego (G0001-G5624)
 - `occurrences/` - Ocorrências reais de cada Strong's na Bíblia
-
-## Uso
-
-Para buscar uma palavra, normalize o texto:
-1. Converter para minúsculas
-2. Remover acentos
-3. Substituir caracteres especiais por underscore
-
-Exemplo: "graça" → "graca.json"
+- `translations/` - Traduções PT-BR das definições
 
 ## Licença
 
