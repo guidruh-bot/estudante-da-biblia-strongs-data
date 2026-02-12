@@ -1,0 +1,48 @@
+{
+  "id": "H499",
+  "language": "hebrew",
+  "original_word": "eleazar",
+  "transliteration": "Elʻazar",
+  "pronunciation": "el-aw-zawr",
+  "short_definition": "Deus ajudou",
+  "full_definition": "Elʻazar é um nome próprio masculino hebraico que significa 'Deus ajudou' ou 'Deus é auxílio'. Deriva da combinação de 'El' (אֵל), que significa Deus, e 'ʻazar' (עָזַר), que significa ajudar, auxiliar.",
+  "etymology": "Composto de H410 (אֵל, 'El' = Deus) e H5826 (עָזַר, 'ʻazar' = ajudar).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "1cr 24:1",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "E Arão tomou por mulher a Eliseba, filha de Aminadabe, irmã de Naasson; e ela deu-lhe Nadabe, Abiú, Eleazar e Itamar.",
+      "verse": 23,
+      "chapter": 6
+    },
+    {
+      "book": "nm",
+      "text": "E estes são os nomes dos filhos de Arão: o primogênito Nadabe; depois Abiú, Eleazar e Itamar.",
+      "verse": 2,
+      "chapter": 3
+    },
+    {
+      "book": "nm",
+      "text": "fazendo-o despir as vestes de Arão e vesti-las em seu filho Eleazar; e Arão será recolhido e morrerá ali.",
+      "verse": 26,
+      "chapter": 20
+    },
+    {
+      "book": "js",
+      "text": "Ora, isto é o que os filhos de Israel receberam por herança na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os chefes das casas paternas das tribos dos filhos de Israel lhes repartiram.",
+      "verse": 1,
+      "chapter": 14
+    },
+    {
+      "book": "1cr",
+      "text": "E quanto aos filhos de Arão, estas foram as suas divisões: os filhos de Arão: Nadabe, Abiú, Eleazar e Itamar.",
+      "verse": 1,
+      "chapter": 24
+    }
+  ],
+  "generated_at": "2026-02-11T23:03:08.337+00:00"
+}

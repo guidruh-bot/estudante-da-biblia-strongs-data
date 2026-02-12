@@ -1,0 +1,36 @@
+{
+  "id": "H7462",
+  "language": "hebrew",
+  "original_word": "pastor",
+  "transliteration": "roʿeh",
+  "pronunciation": "ro-EH",
+  "short_definition": "Um pastor, aquele que cuida do rebanho.",
+  "full_definition": "A palavra hebraica רֹעֶה (roʿeh) deriva do verbo רָעָה (raʿah), que significa 'pastorear', 'cuidar', 'alimentar', 'guiar'. Descreve não apenas a ação de guiar o rebanho, mas a totalidade do cuidado e provisão. Pode referir-se literalmente a quem apascenta ovelhas, ou figurativamente a líderes, governantes e, principalmente, a Deus como o grande Pastor de seu povo.",
+  "etymology": "Deriva da raiz verbal רָעָה (raʿah, H7462), que significa 'pastorear', 'alimentar', 'cuidar'. É usada para descrever o ato de conduzir, alimentar e proteger rebanhos, e por extensão, para liderar e governar pessoas.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "sl 23:1",
+  "cross_references": [
+    {
+      "book": "sl",
+      "text": "O SENHOR é o meu pastor, nada me faltará.",
+      "verse": 1,
+      "chapter": 23
+    },
+    {
+      "book": "is",
+      "text": "Como um pastor ele apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos e os levará junto ao seu peito; as que amamentam ele guiará mansamente.",
+      "verse": 11,
+      "chapter": 40
+    },
+    {
+      "book": "jr",
+      "text": "E levantarei sobre elas pastores que as apascentem, e nunca mais temerão nem se assombrarão, nem uma delas se perderá, diz o SENHOR.",
+      "verse": 4,
+      "chapter": 23
+    }
+  ],
+  "generated_at": "2026-02-11T23:05:14.603+00:00"
+}

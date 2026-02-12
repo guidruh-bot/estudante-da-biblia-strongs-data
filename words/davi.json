@@ -1,0 +1,42 @@
+{
+  "id": "H1732",
+  "language": "hebrew",
+  "original_word": "davi",
+  "transliteration": "David",
+  "pronunciation": "daw-veed",
+  "short_definition": "Amado; nome do segundo rei de Israel",
+  "full_definition": "Davi (em hebraico: דָּוִד, David) significa 'amado' ou 'querido'. É o nome do segundo e mais proeminente rei de Israel, uma figura central no Antigo Testamento, ancestral de Jesus Cristo segundo o Novo Testamento. Ele é lembrado por sua coragem (contra Golias), seu reinado justo (embora com falhas pessoais significativas), sua habilidade como músico/poeta (Salmos) e seu papel na centralização do culto em Jerusalém.",
+  "etymology": "Derivado da raiz hebraica דוד (dwd), que significa 'amar'. Portanto, o nome significa 'amado' ou 'bem-amado'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "1cr 24:31",
+  "cross_references": [
+    {
+      "book": "1sm",
+      "text": "Então Samuel pegou o chifre do azeite e o ungiu no meio de seus irmãos; e daquele dia em diante o Espírito do Senhor se apoderou de Davi. Pelo que Samuel se levantou e foi a Ramá.",
+      "verse": 13,
+      "chapter": 16
+    },
+    {
+      "book": "2sm",
+      "text": "Assim, todos os anciãos de Israel foram ter com o rei em Hebrom; e o rei Davi fez com eles aliança em Hebrom perante o Senhor; e ungiram a Davi rei sobre Israel.",
+      "verse": 3,
+      "chapter": 5
+    },
+    {
+      "book": "sl",
+      "text": "O SENHOR é o meu pastor, nada me faltará.",
+      "verse": 1,
+      "chapter": 23
+    },
+    {
+      "book": "mt",
+      "text": "Dizendo: Que pensais vós do Cristo? De quem é filho? Eles disseram-lhe: De Davi.",
+      "verse": 42,
+      "chapter": 22
+    }
+  ],
+  "generated_at": "2026-02-11T23:04:29.376+00:00"
+}

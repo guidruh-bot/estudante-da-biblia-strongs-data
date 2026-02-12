@@ -1,0 +1,36 @@
+{
+  "id": "H3064",
+  "language": "hebrew",
+  "original_word": "judeus",
+  "transliteration": "Yehudim",
+  "pronunciation": "yeh-hoo-DEEM",
+  "short_definition": "Pessoas de Judá, Judeus",
+  "full_definition": "A palavra 'Yehudim' (יְהוּדִים) é o plural de 'Yehudi' (יְהוּדִי), que significa 'judeu' ou 'judeu'. Refere-se originalmente aos habitantes do Reino de Judá, de onde deriva o nome 'Judá'. Após o exílio babilônico, este termo passou a designar os descendentes dos israelitas que retornaram e se reorganizaram na Judeia, bem como a todos os praticantes da religião judaica, independentemente de sua localização geográfica.",
+  "etymology": "Derivado de 'Yehudah' (יְהוּדָה), que é o nome de uma das doze tribos de Israel e o nome do reino do sul. O significado de 'Yehudah' é comumente associado a 'louvor' ou 'ele será louvado' (Gênesis 29:35, onde Lia louva a Deus ao dar à luz seu quarto filho).",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "jr 44:1",
+  "cross_references": [
+    {
+      "book": "jr",
+      "text": "Esta é a palavra do Senhor, que foi dirigida a Jeremias, para todos os judeus que estavam no Egito e viviam em Migdol, Tafnes, Mênfis, e na região de Patros:",
+      "verse": 1,
+      "chapter": 44
+    },
+    {
+      "book": "et",
+      "text": "Também em toda a província, e em toda a cidade, aonde chegava a palavra do rei e a sua ordem, havia entre os judeus alegria e gozo, banquetes e dias de folguedo; e muitos, dos povos da terra, se fizeram judeus, porque o temor dos judeus tinha caído sobre eles.",
+      "verse": 17,
+      "chapter": 8
+    },
+    {
+      "book": "ne",
+      "text": "E disse diante de seus irmãos e do exército de Samaria: Que fazem esses fracos judeus? Irão edificá-lo novamente? Oferecerão sacrifícios? Acabarão em um dia? Farão com que as pedras queimadas voltem a ser úteis?",
+      "verse": 2,
+      "chapter": 4
+    }
+  ],
+  "generated_at": "2026-02-12T00:54:21.618+00:00"
+}

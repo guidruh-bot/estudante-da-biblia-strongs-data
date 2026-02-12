@@ -1,0 +1,36 @@
+{
+  "id": "H4310",
+  "language": "hebrew",
+  "original_word": "מִ֤י",
+  "transliteration": "mî",
+  "pronunciation": "mee",
+  "short_definition": "Quem, que",
+  "full_definition": "Este pronome interrogativo é usado para perguntar sobre a identidade de uma pessoa ou sobre a natureza de certas coisas e ações. Pode ser utilizado em questões diretas ou indiretas, expressando frequentemente dúvida, surpresa, indignação ou incerteza. É equivalente em função ao 'quem' ou 'que' em português, quando se refere a 'quem é?' ou 'qual é a pessoa que?'. Em alguns contextos, pode também introduzir uma oração relativa, funcionando como 'aquele que' ou 'quem quer que'.",
+  "etymology": "Provavelmente uma raiz primitiva, não derivado de uma raiz verbal, indicando diretamente a ideia de 'quem'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ex 5:2",
+  "cross_references": [
+    {
+      "book": "ex",
+      "text": "Mas Faraó disse: Quem é o Senhor, cuja voz eu ouvirei, para deixar ir Israel? Não conheço o Senhor, nem tampouco deixarei ir Israel.",
+      "verse": 2,
+      "chapter": 5
+    },
+    {
+      "book": "sl",
+      "text": "Quem é este Rei da Glória? O Senhor forte e poderoso, o Senhor poderoso na guerra.",
+      "verse": 8,
+      "chapter": 24
+    },
+    {
+      "book": "is",
+      "text": "Quem mediu as águas na concha da sua mão, e tomou a medida dos céus aos palmos, e recolheu numa medida o pó da terra e pesou os montes com peso e os outeiros em balanças?",
+      "verse": 12,
+      "chapter": 40
+    }
+  ],
+  "generated_at": "2026-02-11T22:58:00.482+00:00"
+}
