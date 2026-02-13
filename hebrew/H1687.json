@@ -1,0 +1,36 @@
+{
+  "id": "H1687",
+  "language": "hebrew",
+  "original_word": "enxame",
+  "transliteration": "dᵊḇôrâ",
+  "pronunciation": "deb-o-RAW",
+  "short_definition": "abelha, vespa; simbolicamente, enxame",
+  "full_definition": "A palavra hebraica dᵊḇôrâ se refere especificamente à abelha ou, em sentido coletivo, a um enxame de abelhas. No contexto bíblico, é frequentemente associada à produção de mel e, metaforicamente, à perseverança e, em algumas instâncias, à invasão e destruição, como enxames que atacam. No caso de Juízes 14:8, embora o termo seja singular (uma 'abelha'), o contexto de 'um enxame de abelhas e mel' indica que se refere à presença de abelhas em grupo, ou seja, um enxame. A tradução para 'enxame' captura o sentido contextual do agrupamento.",
+  "etymology": "Derivado da raiz hebraica דּבר (dabar), que significa 'falar, arranjar, liderar'. Embora a conexão exata seja debatida, alguns sugerem que se refere ao zumbido da abelha ('falar') ou à sua organização social ('arranjar, liderar'). Outros veem uma origem onomatopaica do zumbido das abelhas.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "jz 14:8",
+  "cross_references": [
+    {
+      "book": "jz",
+      "text": "E depois de alguns dias voltou ele para tomá-la; e, apartando-se do caminho para ver o corpo do leão morto, eis que nele havia um enxame de abelhas com mel.",
+      "verse": 8,
+      "chapter": 14
+    },
+    {
+      "book": "dt",
+      "text": "E os amorreus, que habitavam naquela montanha, vos saíram ao encontro; e perseguiram-vos como fazem as abelhas e vos derrotaram desde Seir até Hormá.",
+      "verse": 44,
+      "chapter": 1
+    },
+    {
+      "book": "sl",
+      "text": "Rodearam-me como abelhas; porém no nome do Senhor as despedacei.",
+      "verse": 12,
+      "chapter": 118
+    }
+  ],
+  "generated_at": "2026-02-12T14:21:35.485+00:00"
+}

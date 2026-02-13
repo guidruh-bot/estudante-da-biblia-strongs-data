@@ -1,0 +1,42 @@
+{
+  "id": "H1984",
+  "language": "hebrew",
+  "original_word": "presumas",
+  "transliteration": "halal",
+  "pronunciation": "haw-lal",
+  "short_definition": "Elogiar, louvar, vangloriar-se, folgar, ser tolo",
+  "full_definition": "O verbo 'halal' possui uma gama surprisingly ampla de significados, dependendo de seu tronco e contexto. No tronco Qal (simples), pode significar 'brilhar', 'elogiar', 'louvar'. No Nifal, 'ser louvado', 'ser vanglorioso'. No Piel, 'louvar, celebrar, fazer brilhar' ou 'fazer-se louvar', 'vangloriar-se'. No Hitpael, 'vangloriar-se', 'se exaltar', 'agir tolamente'. O sentido de 'presumir' no provérbio deriva da ideia de 'vangloriar-se' ou 'agir tolamente'.",
+  "etymology": "De uma raiz primária que significa 'brilhar', daí, figurativamente, 'fazer um barulho', 'elogiar', 'vangloriar-se', 'agir como um tolo'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "pv 27:1",
+  "cross_references": [
+    {
+      "book": "pv",
+      "text": "Não presumas do dia de amanhã, porque não sabes o que ele trará.",
+      "verse": 1,
+      "chapter": 27
+    },
+    {
+      "book": "sl",
+      "text": "Tudo o que tem fôlego louve ao SENHOR! Louvai ao SENHOR!",
+      "verse": 6,
+      "chapter": 150
+    },
+    {
+      "book": "jr",
+      "text": "Mas o que se gloriar, glorie-se nisto: em me entender e em me conhecer, que eu sou o SENHOR, que faço benevolência, juízo e justiça na terra; porque destas coisas me agrado, diz o SENHOR.",
+      "verse": 24,
+      "chapter": 9
+    },
+    {
+      "book": "pv",
+      "text": "O homem será louvado conforme o seu entendimento, mas o perverso de coração será desprezado.",
+      "verse": 8,
+      "chapter": 12
+    }
+  ],
+  "generated_at": "2026-02-12T13:14:05.198+00:00"
+}
