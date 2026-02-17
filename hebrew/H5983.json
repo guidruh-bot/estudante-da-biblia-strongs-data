@@ -1,0 +1,42 @@
+{
+  "id": "H5983",
+  "language": "hebrew",
+  "original_word": "amonitas",
+  "transliteration": "ʻAmmônî",
+  "pronunciation": "am-mo-nee",
+  "short_definition": "Um amonita, habitante de Amom",
+  "full_definition": "Refere-se a um descendente de Ben-Ammi, filho de Ló com sua filha mais nova, e ao povo que habitava a região de Amom. Indica a afiliação tribal e geográfica. No plural, designa o povo dos amonitas.",
+  "etymology": "Derivado de H5984 (עַמּוֹן - ʻAmmôn), que significa 'tribal' ou 'do povo', uma referência ao ancestral Ben-Ammi ('filho do meu parente' ou 'filho do meu povo'), filho de Ló.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "ne 13:1",
+  "cross_references": [
+    {
+      "book": "dt",
+      "text": "Nenhum amonita nem moabita entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor eteridnte.",
+      "verse": 3,
+      "chapter": 23
+    },
+    {
+      "book": "jz",
+      "text": "E sucedeu que, depois de algum tempo, os filhos de Amom fizeram guerra contra Israel.",
+      "verse": 4,
+      "chapter": 11
+    },
+    {
+      "book": "2sm",
+      "text": "E aconteceu depois disso que morreu o rei dos filhos de Amom, e Hanum, seu filho, reinou em seu lugar.",
+      "verse": 1,
+      "chapter": 10
+    },
+    {
+      "book": "2cr",
+      "text": "E sucedeu depois disso que os filhos de Moabe e os filhos de Amom, e com eles alguns dos amonitas, vieram contra Josafá para a peleja.",
+      "verse": 1,
+      "chapter": 20
+    }
+  ],
+  "generated_at": "2026-02-16T20:13:25.542+00:00"
+}
