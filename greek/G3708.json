@@ -1,0 +1,42 @@
+{
+  "id": "G3708",
+  "language": "greek",
+  "original_word": "vendo",
+  "transliteration": "horaō",
+  "pronunciation": "ho-RAH-o",
+  "short_definition": "Ver, olhar, observar, perceber",
+  "full_definition": "Este verbo significa perceber com os olhos, seja fisicamente ou mentalmente. Pode denotar o ato de olhar, observar, contemplar, ou a capacidade de ver (ter vista). Em um sentido mais profundo, pode significar discernir, compreender, experimentar ou ter uma visão (uma aparição). No tempo presente, como em Mateus 5:1 (ἰδὼν - idōn, um particípio aoristo de ὁράω), indica uma ação pontual de ver que precede ou causa a próxima ação. A ênfase não está na duração do ato de ver, mas no fato de que o ver ocorreu e teve uma consequência.",
+  "etymology": "Possivelmente derivado de uma raiz ligada a *wer- (perceber). Está relacionado a *horos (vista, olho). Frequentemente usado na Septuaginta para traduzir o hebraico H7200 (rā'â), que também abrange uma ampla gama de 'ver'.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 130,
+  "source_verse": "mt 5:1",
+  "cross_references": [
+    {
+      "book": "mt",
+      "text": "E Jesus, vendo a multidão, subiu a um monte, e, assentando-se, aproximaram-se dele os seus discípulos;",
+      "verse": 1,
+      "chapter": 5
+    },
+    {
+      "book": "mt",
+      "text": "Então, toda a cidade saiu ao encontro de Jesus e, vendo-o, suplicaram-lhe que se retirasse dos seus termos.",
+      "verse": 34,
+      "chapter": 8
+    },
+    {
+      "book": "at",
+      "text": "Os homens que com ele viajavam pararam emudecidos, ouvindo a voz, mas não vendo ninguém.",
+      "verse": 7,
+      "chapter": 9
+    },
+    {
+      "book": "ap",
+      "text": "E virei-me para ver a voz que falava comigo. E, virando-me, vi sete castiçais de ouro;",
+      "verse": 12,
+      "chapter": 1
+    }
+  ],
+  "generated_at": "2026-02-18T15:08:48.652+00:00"
+}
