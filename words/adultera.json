@@ -1,0 +1,42 @@
+{
+  "id": "H5003",
+  "language": "hebrew",
+  "original_word": "adúltera",
+  "transliteration": "nokhrîyâ",
+  "pronunciation": "no-kree-YAH",
+  "short_definition": "Mulher estrangeira, estranha, não-israelita ou não-legítima; metaforicamente, adúltera.",
+  "full_definition": "Este substantivo feminino é derivado da raiz H5234 (נָכַר - nakhar), que significa 'reconhecer, conhecer, discernir'. Quando aplicado a pessoas, 'nokhrîyâ' refere-se primariamente a uma mulher que é 'estranha', seja por sua nacionalidade (não-israelita) ou por não ser a esposa legítima. No contexto de Provérbios, é frequentemente usada como um eufemismo ou sentido figurado para uma mulher imoral, uma sedutora, ou uma adúltera, devido à associação cultural e religiosa de não-israelitas com práticas dissolutas e aos perigos de casamentos mistos ou relações ilícitas com elas.",
+  "etymology": "Derivado de H5234 (נָכַר - nakhar), 'ser estrangeiro, estranho'. Portanto, 'nokhrîyâ' significa literalmente 'aquela que é estranha, estrangeira'. A conotação de 'adúltera' surge do contexto sócio-religioso e legal israelita, onde relações ilícitas ou com estrangeiros eram consideradas 'estranhas' ou impróprias.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "pv 6:26",
+  "cross_references": [
+    {
+      "book": "pv",
+      "text": "Ela te livrará da mulher estranha, da estrangeira, que lisonjeia com suas palavras;",
+      "verse": 16,
+      "chapter": 2
+    },
+    {
+      "book": "pv",
+      "text": "Por que, meu filho, te deixarias levar pela mulher estranha e abraçarias o seio da estrangeira?",
+      "verse": 20,
+      "chapter": 5
+    },
+    {
+      "book": "pv",
+      "text": "Para que te guardem da mulher estranha, da estrangeira que lisonjeia com suas palavras.",
+      "verse": 5,
+      "chapter": 7
+    },
+    {
+      "book": "ne",
+      "text": "Porventura não pecou nisto Salomão, rei de Israel, não havendo entre muitas nações rei semelhante a ele, e sendo ele amado de seu Deus, e pondo-o Deus rei sobre todo o Israel? E contudo as mulheres estrangeiras o fizeram pecar.",
+      "verse": 26,
+      "chapter": 13
+    }
+  ],
+  "generated_at": "2026-03-01T07:12:43.486+00:00"
+}
