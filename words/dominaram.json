@@ -1,0 +1,42 @@
+{
+  "id": "H7980",
+  "language": "hebrew",
+  "original_word": "dominaram",
+  "transliteration": "shalat",
+  "pronunciation": "shah-lat",
+  "short_definition": "Ter domínio, ter poder, governar, exercer autoridade.",
+  "full_definition": "Este verbo hebraico denota a posse e o exercício de poder, autoridade ou domínio sobre algo ou alguém. Inclui a ideia de controle, governo e soberania. Pode ser utilizado em contextos de autoridade política, social ou mesmo natural.",
+  "etymology": "A raiz 'שלט' (shalat) é de origem semítica e sugere a ideia de ter poder, controle. É um cognato em aramaico e siríaco com o mesmo sentido de dominar ou governar.",
+  "related_words": null,
+  "kjv_translations": null,
+  "usage_count": 0,
+  "real_occurrence_count": 0,
+  "source_verse": "et 9:1",
+  "cross_references": [
+    {
+      "book": "et",
+      "text": "No décimo terceiro dia do décimo segundo mês, o mês de adar, entraria em vigor o decreto do rei. Naquele dia os inimigos dos judeus esperavam vencê-los, mas aconteceu o contrário; os judeus dominaram aqueles que os odiavam,",
+      "verse": 1,
+      "chapter": 9
+    },
+    {
+      "book": "gn",
+      "text": "E Deus os abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra.",
+      "verse": 28,
+      "chapter": 1
+    },
+    {
+      "book": "pv",
+      "text": "A mão dos diligentes dominará, mas a dos negligentes será forçada a servir.",
+      "verse": 24,
+      "chapter": 12
+    },
+    {
+      "book": "ec",
+      "text": "Tudo isso vi enquanto aplicava minha mente a todo trabalho que se faz debaixo do sol, quando um homem domina sobre outro para seu próprio prejuízo.",
+      "verse": 9,
+      "chapter": 8
+    }
+  ],
+  "generated_at": "2026-03-17T12:32:42.622+00:00"
+}
